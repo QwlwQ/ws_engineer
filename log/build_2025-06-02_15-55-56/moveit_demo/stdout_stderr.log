@@ -1,0 +1,22 @@
+[100%] Built target simple_motion_node
+[100%] Built target move_controller_test
+[100%] Built target move_controller
+-- Install configuration: ""
+-- Up-to-date: /home/ubuntu/ws_engineer/install/moveit_demo/lib/moveit_demo/simple_motion_node
+-- Up-to-date: /home/ubuntu/ws_engineer/install/moveit_demo/lib/moveit_demo/move_controller_test
+-- Up-to-date: /home/ubuntu/ws_engineer/install/moveit_demo/lib/moveit_demo/move_controller
+-- Up-to-date: /home/ubuntu/ws_engineer/install/moveit_demo/share/ament_index/resource_index/package_run_dependencies/moveit_demo
+-- Up-to-date: /home/ubuntu/ws_engineer/install/moveit_demo/share/ament_index/resource_index/parent_prefix_path/moveit_demo
+-- Up-to-date: /home/ubuntu/ws_engineer/install/moveit_demo/share/moveit_demo/environment/ament_prefix_path.sh
+-- Up-to-date: /home/ubuntu/ws_engineer/install/moveit_demo/share/moveit_demo/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/ubuntu/ws_engineer/install/moveit_demo/share/moveit_demo/environment/path.sh
+-- Up-to-date: /home/ubuntu/ws_engineer/install/moveit_demo/share/moveit_demo/environment/path.dsv
+-- Up-to-date: /home/ubuntu/ws_engineer/install/moveit_demo/share/moveit_demo/local_setup.bash
+-- Up-to-date: /home/ubuntu/ws_engineer/install/moveit_demo/share/moveit_demo/local_setup.sh
+-- Up-to-date: /home/ubuntu/ws_engineer/install/moveit_demo/share/moveit_demo/local_setup.zsh
+-- Up-to-date: /home/ubuntu/ws_engineer/install/moveit_demo/share/moveit_demo/local_setup.dsv
+-- Installing: /home/ubuntu/ws_engineer/install/moveit_demo/share/moveit_demo/package.dsv
+-- Up-to-date: /home/ubuntu/ws_engineer/install/moveit_demo/share/ament_index/resource_index/packages/moveit_demo
+-- Up-to-date: /home/ubuntu/ws_engineer/install/moveit_demo/share/moveit_demo/cmake/moveit_demoConfig.cmake
+-- Up-to-date: /home/ubuntu/ws_engineer/install/moveit_demo/share/moveit_demo/cmake/moveit_demoConfig-version.cmake
+-- Up-to-date: /home/ubuntu/ws_engineer/install/moveit_demo/share/moveit_demo/package.xml

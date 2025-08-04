@@ -1,0 +1,49 @@
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found sensor_msgs: 4.8.0 (/opt/ros/humble/share/sensor_msgs/cmake)
+-- Found base_interfaces: 0.0.0 (/home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake)
+-- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: /home/ubuntu/ws_engineer/src/engineer_protocol/include;/home/ubuntu/ws_engineer/src/engineer_protocol/serial;$<BUILD_INTERFACE:/home/ubuntu/ws_engineer/src/engineer_protocol/include>
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ubuntu/ws_engineer/build/engineer_protocol
+[35m[1mConsolidate compiler generated dependencies of target uart-serial-driver[0m
+[ 50%] Built target uart-serial-driver
+[35m[1mConsolidate compiler generated dependencies of target uart_serial[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/uart_serial.dir/src/uart_serial.cpp.o[0m
+[100%] [32m[1mLinking CXX executable uart_serial[0m
+/usr/bin/ld: warning: libfmt.so.8, needed by /lib/x86_64-linux-gnu/libspdlog.so.1, may conflict with libfmt.so.9
+[100%] Built target uart_serial
+-- Install configuration: ""
+-- Installing: /home/ubuntu/ws_engineer/install/engineer_protocol/lib/engineer_protocol/uart_serial
+-- Set runtime path of "/home/ubuntu/ws_engineer/install/engineer_protocol/lib/engineer_protocol/uart_serial" to ""
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/lib/engineer_protocol/libuart-serial-driver.a
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/ament_index/resource_index/package_run_dependencies/engineer_protocol
+-- Installing: /home/ubuntu/ws_engineer/install/engineer_protocol/share/ament_index/resource_index/parent_prefix_path/engineer_protocol
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/environment/ament_prefix_path.sh
+-- Installing: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/environment/path.sh
+-- Installing: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/environment/path.dsv
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/local_setup.bash
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/local_setup.sh
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/local_setup.zsh
+-- Installing: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/local_setup.dsv
+-- Installing: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/package.dsv
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/ament_index/resource_index/packages/engineer_protocol
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/cmake/engineer_protocolConfig.cmake
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/cmake/engineer_protocolConfig-version.cmake
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/package.xml

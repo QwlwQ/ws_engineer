@@ -1,0 +1,48 @@
+[ 50%] Built target uart-serial-driver
+[ 75%] [32mBuilding CXX object CMakeFiles/uart_serial.dir/src/uart_serial.cpp.o[0m
+In file included from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/logging.hpp:24[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/client.hpp:40[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/callback_group.hpp:24[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/any_executable.hpp:20[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/memory_strategy.hpp:25[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/memory_strategies.hpp:18[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executor_options.hpp:20[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executor.hpp:37[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executors/multi_threaded_executor.hpp:25[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executors.hpp:21[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/rclcpp.hpp:155[m[K,
+                 from [01m[K/home/ubuntu/ws_engineer/src/engineer_protocol/src/uart_serial.cpp:12[m[K:
+[01m[K/home/ubuntu/ws_engineer/src/engineer_protocol/src/uart_serial.cpp:[m[K In member function ‘[01m[Kvoid UartSerial::run_loop()[m[K’:
+[01m[K/home/ubuntu/ws_engineer/src/engineer_protocol/src/uart_serial.cpp:41:37:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects argument of type ‘[01m[Kint[m[K’, but argument 5 has type ‘[01m[Kbase_interfaces::msg::UserPose_<std::allocator<void> >::_x_type[m[K’ {aka ‘[01m[Kdouble[m[K’} [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wformat=-Wformat=]8;;[m[K]
+   41 |     RCLCPP_INFO(this->get_logger(), [01;35m[K"x = %d\n"[m[K, [32m[Kpose.x[m[K);
+      |                                     [01;35m[K^~~~~~~~~~[m[K  [32m[K~~~~~~[m[K
+      |                                                      [32m[K|[m[K
+      |                                                      [32m[Kbase_interfaces::msg::UserPose_<std::allocator<void> >::_x_type {aka double}[m[K
+[01m[K/home/ubuntu/ws_engineer/src/engineer_protocol/src/uart_serial.cpp:41:43:[m[K [01;36m[Knote: [m[Kformat string is defined here
+   41 |     RCLCPP_INFO(this->get_logger(), "x = [01;36m[K%d[m[K\n", pose.x);
+      |                                          [01;36m[K~^[m[K
+      |                                           [01;36m[K|[m[K
+      |                                           [01;36m[Kint[m[K
+      |                                          [32m[K%f[m[K
+[100%] [32m[1mLinking CXX executable uart_serial[0m
+/usr/bin/ld: warning: libfmt.so.8, needed by /lib/x86_64-linux-gnu/libspdlog.so.1, may conflict with libfmt.so.9
+[100%] Built target uart_serial
+-- Install configuration: ""
+-- Installing: /home/ubuntu/ws_engineer/install/engineer_protocol/lib/engineer_protocol/uart_serial
+-- Set runtime path of "/home/ubuntu/ws_engineer/install/engineer_protocol/lib/engineer_protocol/uart_serial" to ""
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/lib/engineer_protocol/libuart-serial-driver.a
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/ament_index/resource_index/package_run_dependencies/engineer_protocol
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/ament_index/resource_index/parent_prefix_path/engineer_protocol
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/environment/ament_prefix_path.sh
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/environment/path.sh
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/environment/path.dsv
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/local_setup.bash
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/local_setup.sh
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/local_setup.zsh
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/local_setup.dsv
+-- Installing: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/package.dsv
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/ament_index/resource_index/packages/engineer_protocol
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/cmake/engineer_protocolConfig.cmake
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/cmake/engineer_protocolConfig-version.cmake
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/package.xml

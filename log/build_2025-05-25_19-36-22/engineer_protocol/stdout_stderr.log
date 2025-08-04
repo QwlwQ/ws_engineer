@@ -1,0 +1,26 @@
+[ 25%] [32mBuilding CXX object CMakeFiles/uart-serial-driver.dir/src/uart_serial_driver.cpp.o[0m
+[ 50%] [32m[1mLinking CXX static library libuart-serial-driver.a[0m
+[ 50%] Built target uart-serial-driver
+[ 75%] [32mBuilding CXX object CMakeFiles/uart_serial.dir/src/uart_serial.cpp.o[0m
+[100%] [32m[1mLinking CXX executable uart_serial[0m
+/usr/bin/ld: warning: libfmt.so.8, needed by /lib/x86_64-linux-gnu/libspdlog.so.1, may conflict with libfmt.so.9
+[100%] Built target uart_serial
+-- Install configuration: ""
+-- Installing: /home/ubuntu/ws_engineer/install/engineer_protocol/lib/engineer_protocol/uart_serial
+-- Set runtime path of "/home/ubuntu/ws_engineer/install/engineer_protocol/lib/engineer_protocol/uart_serial" to ""
+-- Installing: /home/ubuntu/ws_engineer/install/engineer_protocol/lib/engineer_protocol/libuart-serial-driver.a
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/ament_index/resource_index/package_run_dependencies/engineer_protocol
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/ament_index/resource_index/parent_prefix_path/engineer_protocol
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/environment/ament_prefix_path.sh
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/environment/path.sh
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/environment/path.dsv
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/local_setup.bash
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/local_setup.sh
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/local_setup.zsh
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/local_setup.dsv
+-- Installing: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/package.dsv
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/ament_index/resource_index/packages/engineer_protocol
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/cmake/engineer_protocolConfig.cmake
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/cmake/engineer_protocolConfig-version.cmake
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/package.xml

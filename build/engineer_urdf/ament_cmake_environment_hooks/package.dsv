@@ -1,0 +1,4 @@
+source;share/engineer_urdf/local_setup.bash
+source;share/engineer_urdf/local_setup.dsv
+source;share/engineer_urdf/local_setup.sh
+source;share/engineer_urdf/local_setup.zsh

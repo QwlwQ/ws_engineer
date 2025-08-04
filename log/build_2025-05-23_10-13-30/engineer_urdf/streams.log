@@ -1,0 +1,105 @@
+[0.038s] Invoking command in '/home/ubuntu/ws_engineer/build/engineer_urdf': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ws_moveit/install/moveit_configs_utils:/home/ubuntu/ws_moveit/install/launch_param_builder:/home/ubuntu/ws00_helloworld/install/pkg02_helloworld_py:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake /home/ubuntu/ws_engineer/src/engineer_urdf -DCMAKE_INSTALL_PREFIX=/home/ubuntu/ws_engineer/install/engineer_urdf
+[0.239s] -- The C compiler identification is GNU 12.3.0
+[0.367s] -- The CXX compiler identification is GNU 12.3.0
+[0.384s] -- Detecting C compiler ABI info
+[0.490s] -- Detecting C compiler ABI info - done
+[0.496s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.496s] -- Detecting C compile features
+[0.497s] -- Detecting C compile features - done
+[0.501s] -- Detecting CXX compiler ABI info
+[0.617s] -- Detecting CXX compiler ABI info - done
+[0.623s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.623s] -- Detecting CXX compile features
+[0.623s] -- Detecting CXX compile features - done
+[0.658s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.859s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.156s] -- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+[1.305s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.325s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.352s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.390s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.429s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.579s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.595s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.853s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.894s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.959s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.997s] -- Looking for pthread.h
+[2.110s] -- Looking for pthread.h - found
+[2.110s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.207s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.208s] -- Found Threads: TRUE  
+[2.348s] -- Found sensor_msgs: 4.8.0 (/opt/ros/humble/share/sensor_msgs/cmake)
+[2.390s] -- Found moveit_ros_planning_interface: 2.5.9 (/home/ubuntu/ws_moveit/install/moveit_ros_planning_interface/share/moveit_ros_planning_interface/cmake)
+[2.486s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: date_time filesystem program_options system thread 
+[2.863s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: chrono date_time filesystem iostreams program_options regex serialization system thread 
+[3.059s] -- Found parameter_traits: 0.4.0 (/opt/ros/humble/share/parameter_traits/cmake)
+[3.106s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[3.119s] -- Found rclcpp_lifecycle: 16.0.12 (/opt/ros/humble/share/rclcpp_lifecycle/cmake)
+[3.191s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: filesystem 
+[3.473s] -- library: /usr/lib/x86_64-linux-gnu/libcurl.so
+[3.611s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[4.072s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread chrono 
+[4.144s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: thread system filesystem regex date_time program_options 
+[4.180s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread 
+[4.238s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[4.435s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.436s] -- Configured cppcheck include dirs: 
+[4.436s] -- Configured cppcheck exclude dirs and/or files: 
+[4.437s] -- Added test 'flake8' to check Python code syntax and style conventions
+[4.440s] -- Added test 'lint_cmake' to check CMake code style
+[4.441s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[4.444s] -- Added test 'uncrustify' to check C / C++ code style
+[4.444s] -- Configured uncrustify additional arguments: 
+[4.446s] -- Added test 'xmllint' to check XML markup files
+[4.449s] -- Configuring done
+[4.508s] -- Generating done
+[4.546s] -- Build files have been written to: /home/ubuntu/ws_engineer/build/engineer_urdf
+[4.561s] Invoked command in '/home/ubuntu/ws_engineer/build/engineer_urdf' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ws_moveit/install/moveit_configs_utils:/home/ubuntu/ws_moveit/install/launch_param_builder:/home/ubuntu/ws00_helloworld/install/pkg02_helloworld_py:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake /home/ubuntu/ws_engineer/src/engineer_urdf -DCMAKE_INSTALL_PREFIX=/home/ubuntu/ws_engineer/install/engineer_urdf
+[4.562s] Invoking command in '/home/ubuntu/ws_engineer/build/engineer_urdf': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ws_moveit/install/moveit_configs_utils:/home/ubuntu/ws_moveit/install/launch_param_builder:/home/ubuntu/ws00_helloworld/install/pkg02_helloworld_py:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ws_engineer/build/engineer_urdf -- -j16 -l16
+[4.639s] [ 50%] [32mBuilding CXX object CMakeFiles/joint_state_reader.dir/src/joint_state_reader.cpp.o[0m
+[4.640s] [ 50%] [32mBuilding CXX object CMakeFiles/end_effector_pose_reader.dir/src/end_effector_pose_reader.cpp.o[0m
+[12.763s] [ 75%] [32m[1mLinking CXX executable end_effector_pose_reader[0m
+[13.182s] [100%] [32m[1mLinking CXX executable joint_state_reader[0m
+[13.399s] [100%] Built target end_effector_pose_reader
+[13.551s] [100%] Built target joint_state_reader
+[13.567s] Invoked command in '/home/ubuntu/ws_engineer/build/engineer_urdf' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ws_moveit/install/moveit_configs_utils:/home/ubuntu/ws_moveit/install/launch_param_builder:/home/ubuntu/ws00_helloworld/install/pkg02_helloworld_py:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ws_engineer/build/engineer_urdf -- -j16 -l16
+[13.568s] Invoking command in '/home/ubuntu/ws_engineer/build/engineer_urdf': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ws_moveit/install/moveit_configs_utils:/home/ubuntu/ws_moveit/install/launch_param_builder:/home/ubuntu/ws00_helloworld/install/pkg02_helloworld_py:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/ws_engineer/build/engineer_urdf
+[13.579s] -- Install configuration: ""
+[13.579s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/lib/engineer_urdf/joint_state_reader
+[13.583s] -- Set runtime path of "/home/ubuntu/ws_engineer/install/engineer_urdf/lib/engineer_urdf/joint_state_reader" to ""
+[13.583s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/lib/engineer_urdf/end_effector_pose_reader
+[13.584s] -- Set runtime path of "/home/ubuntu/ws_engineer/install/engineer_urdf/lib/engineer_urdf/end_effector_pose_reader" to ""
+[13.584s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/launch
+[13.584s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/launch/control_launch.py
+[13.584s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/launch/display_launch.py
+[13.584s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes
+[13.584s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes/Link2.STL
+[13.594s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes/Link1.STL
+[13.600s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes/Link5.STL
+[13.601s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes/Link0.STL
+[13.608s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes/Link4.STL
+[13.615s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes/base_link.STL
+[13.622s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes/Link3.STL
+[13.633s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/rviz
+[13.633s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/rviz/urdf.rviz
+[13.633s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/urdf
+[13.633s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/urdf/xacro
+[13.633s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/urdf/urdf
+[13.633s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/urdf/urdf/manipulator.urdf
+[13.634s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/ament_index/resource_index/package_run_dependencies/engineer_urdf
+[13.634s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/ament_index/resource_index/parent_prefix_path/engineer_urdf
+[13.635s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/environment/ament_prefix_path.sh
+[13.635s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/environment/ament_prefix_path.dsv
+[13.635s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/environment/path.sh
+[13.635s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/environment/path.dsv
+[13.635s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/local_setup.bash
+[13.635s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/local_setup.sh
+[13.635s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/local_setup.zsh
+[13.636s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/local_setup.dsv
+[13.636s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/package.dsv
+[13.636s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/ament_index/resource_index/packages/engineer_urdf
+[13.636s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/cmake/engineer_urdfConfig.cmake
+[13.636s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/cmake/engineer_urdfConfig-version.cmake
+[13.636s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/package.xml
+[13.639s] Invoked command in '/home/ubuntu/ws_engineer/build/engineer_urdf' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ws_moveit/install/moveit_configs_utils:/home/ubuntu/ws_moveit/install/launch_param_builder:/home/ubuntu/ws00_helloworld/install/pkg02_helloworld_py:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/ws_engineer/build/engineer_urdf

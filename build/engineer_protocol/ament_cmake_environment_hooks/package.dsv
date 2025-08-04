@@ -1,0 +1,4 @@
+source;share/engineer_protocol/local_setup.bash
+source;share/engineer_protocol/local_setup.dsv
+source;share/engineer_protocol/local_setup.sh
+source;share/engineer_protocol/local_setup.zsh

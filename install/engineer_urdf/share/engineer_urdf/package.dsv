@@ -1,0 +1,8 @@
+source;share/engineer_urdf/hook/cmake_prefix_path.ps1
+source;share/engineer_urdf/hook/cmake_prefix_path.dsv
+source;share/engineer_urdf/hook/cmake_prefix_path.sh
+source;share/engineer_urdf/local_setup.bash
+source;share/engineer_urdf/local_setup.dsv
+source;share/engineer_urdf/local_setup.ps1
+source;share/engineer_urdf/local_setup.sh
+source;share/engineer_urdf/local_setup.zsh

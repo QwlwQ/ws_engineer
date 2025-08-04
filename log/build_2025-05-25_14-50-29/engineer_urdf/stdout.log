@@ -1,0 +1,4 @@
+[ 25%] [32mBuilding CXX object CMakeFiles/joint_state_reader.dir/src/joint_state_reader.cpp.o[0m
+[ 75%] Built target end_effector_pose_reader
+[100%] [32m[1mLinking CXX executable joint_state_reader[0m
+[100%] Built target joint_state_reader

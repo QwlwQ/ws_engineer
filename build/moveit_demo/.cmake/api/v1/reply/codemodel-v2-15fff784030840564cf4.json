@@ -1,0 +1,97 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-a86ce28f6ff864952d80.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "moveit_demo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "move_controller::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-move_controller-f535eff27119f714a8dd.json",
+					"name" : "move_controller",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "move_controller_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-move_controller_test-c274c8ad718b791c4483.json",
+					"name" : "move_controller_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "moveit_demo_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-moveit_demo_uninstall-25574ba1ef752de07dc9.json",
+					"name" : "moveit_demo_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simple_motion_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simple_motion_node-78249551f95d12591420.json",
+					"name" : "simple_motion_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-9b60a8bcf2f8244690df.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ubuntu/ws_engineer/build/moveit_demo",
+		"source" : "/home/ubuntu/ws_engineer/src/moveit_demo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

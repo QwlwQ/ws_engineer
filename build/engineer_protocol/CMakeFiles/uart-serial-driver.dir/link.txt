@@ -1,0 +1,2 @@
+/usr/bin/ar qc libuart-serial-driver.a CMakeFiles/uart-serial-driver.dir/src/uart_serial_driver.cpp.o
+/usr/bin/ranlib libuart-serial-driver.a

@@ -1,0 +1,14 @@
+[35m[1mConsolidate compiler generated dependencies of target uart-serial-driver[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/uart-serial-driver.dir/src/uart_serial_driver.cpp.o[0m
+[ 50%] [32m[1mLinking CXX static library libuart-serial-driver.a[0m
+[ 50%] Built target uart-serial-driver
+[35m[1mConsolidate compiler generated dependencies of target uart_serial[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/uart_serial.dir/src/uart_serial.cpp.o[0m
+[100%] [32m[1mLinking CXX executable uart_serial[0m
+/usr/bin/ld: libuart-serial-driver.a(uart_serial_driver.cpp.o):(.bss+0x0): multiple definition of `uart::idntifier_green[abi:cxx11]'; CMakeFiles/uart_serial.dir/src/uart_serial.cpp.o:(.bss+0x0): first defined here
+/usr/bin/ld: libuart-serial-driver.a(uart_serial_driver.cpp.o):(.bss+0x20): multiple definition of `uart::idntifier_red[abi:cxx11]'; CMakeFiles/uart_serial.dir/src/uart_serial.cpp.o:(.bss+0x20): first defined here
+/usr/bin/ld: warning: libfmt.so.8, needed by /lib/x86_64-linux-gnu/libspdlog.so.1, may conflict with libfmt.so.9
+collect2: error: ld returned 1 exit status
+gmake[2]: *** [CMakeFiles/uart_serial.dir/build.make:199：uart_serial] 错误 1
+gmake[1]: *** [CMakeFiles/Makefile2:165：CMakeFiles/uart_serial.dir/all] 错误 2
+gmake: *** [Makefile:146：all] 错误 2

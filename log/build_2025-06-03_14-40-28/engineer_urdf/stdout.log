@@ -1,0 +1,43 @@
+[ 50%] Built target joint_state_reader
+[100%] Built target end_effector_pose_reader
+-- Install configuration: ""
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/lib/engineer_urdf/joint_state_reader
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/lib/engineer_urdf/end_effector_pose_reader
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/launch
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/launch/control_launch.py
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/launch/display_launch.py
+-- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/launch/gazebo_sim_launch.py
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes/Link2.STL
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes/Link1.STL
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes/Link5.STL
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes/Link0.STL
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes/Link4.STL
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes/base_link.STL
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes/Link3.STL
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/rviz
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/rviz/urdf.rviz
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/urdf
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/urdf/xacro
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/urdf/urdf
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/urdf/urdf/manipulator.urdf
+-- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/urdf/urdf/manipulator.gv
+-- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/urdf/urdf/manipulator.pdf
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/world
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/world/conveyline
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/world/conveyline/conveyline.world
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/ament_index/resource_index/package_run_dependencies/engineer_urdf
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/ament_index/resource_index/parent_prefix_path/engineer_urdf
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/environment/ament_prefix_path.sh
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/environment/path.sh
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/environment/path.dsv
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/local_setup.bash
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/local_setup.sh
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/local_setup.zsh
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/local_setup.dsv
+-- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/package.dsv
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/ament_index/resource_index/packages/engineer_urdf
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/cmake/engineer_urdfConfig.cmake
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/cmake/engineer_urdfConfig-version.cmake
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/package.xml

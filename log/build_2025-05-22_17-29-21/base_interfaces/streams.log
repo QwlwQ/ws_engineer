@@ -1,0 +1,255 @@
+[0.032s] Invoking command in '/home/ubuntu/ws_engineer/build/base_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ws_moveit/install/moveit_configs_utils:/home/ubuntu/ws_moveit/install/launch_param_builder:/home/ubuntu/ws00_helloworld/install/pkg02_helloworld_py:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake /home/ubuntu/ws_engineer/src/base_interfaces -DCMAKE_INSTALL_PREFIX=/home/ubuntu/ws_engineer/install/base_interfaces
+[0.100s] -- The C compiler identification is GNU 12.3.0
+[0.158s] -- The CXX compiler identification is GNU 12.3.0
+[0.165s] -- Detecting C compiler ABI info
+[0.254s] -- Detecting C compiler ABI info - done
+[0.260s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.260s] -- Detecting C compile features
+[0.260s] -- Detecting C compile features - done
+[0.263s] -- Detecting CXX compiler ABI info
+[0.375s] -- Detecting CXX compiler ABI info - done
+[0.382s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.382s] -- Detecting CXX compile features
+[0.383s] -- Detecting CXX compile features - done
+[0.394s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.780s] -- Found Python3: /home/ubuntu/anaconda3/bin/python3 (found version "3.12.7") found components: Interpreter 
+[1.000s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[1.021s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.051s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.163s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.522s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[1.736s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.980s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.003s] -- Found PythonInterp: /home/ubuntu/anaconda3/bin/python3 (found suitable version "3.12.7", minimum required is "3.6") 
+[2.014s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[2.042s] -- Found PythonLibs: /home/ubuntu/anaconda3/lib/libpython3.12.so (found suitable version "3.12.7", minimum required is "3.5") 
+[2.042s] -- Using PYTHON_EXECUTABLE: /home/ubuntu/anaconda3/bin/python3
+[2.042s] -- Using PYTHON_INCLUDE_DIRS: /home/ubuntu/anaconda3/include/python3.12
+[2.042s] -- Using PYTHON_LIBRARIES: /home/ubuntu/anaconda3/lib/libpython3.12.so
+[2.067s] -- Found PythonExtra: .so  
+[2.224s] -- Using numpy include directory: /home/ubuntu/anaconda3/lib/python3.12/site-packages/numpy/core/include
+[2.267s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.274s] -- Configuring done
+[2.302s] -- Generating done
+[2.313s] -- Build files have been written to: /home/ubuntu/ws_engineer/build/base_interfaces
+[2.322s] Invoked command in '/home/ubuntu/ws_engineer/build/base_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ws_moveit/install/moveit_configs_utils:/home/ubuntu/ws_moveit/install/launch_param_builder:/home/ubuntu/ws00_helloworld/install/pkg02_helloworld_py:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake /home/ubuntu/ws_engineer/src/base_interfaces -DCMAKE_INSTALL_PREFIX=/home/ubuntu/ws_engineer/install/base_interfaces
+[2.324s] Invoking command in '/home/ubuntu/ws_engineer/build/base_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ws_moveit/install/moveit_configs_utils:/home/ubuntu/ws_moveit/install/launch_param_builder:/home/ubuntu/ws00_helloworld/install/pkg02_helloworld_py:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ws_engineer/build/base_interfaces -- -j16 -l16
+[2.383s] [  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[2.398s] [  5%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[2.412s] [  5%] Built target ament_cmake_python_copy_base_interfaces
+[2.666s] [  5%] Built target base_interfaces__cpp
+[2.666s] [  7%] [32mBuilding C object CMakeFiles/base_interfaces__rosidl_generator_c.dir/rosidl_generator_c/base_interfaces/msg/detail/user_joint__functions.c.o[0m
+[2.667s] [ 10%] [32mBuilding C object CMakeFiles/base_interfaces__rosidl_generator_c.dir/rosidl_generator_c/base_interfaces/msg/detail/user_pose__functions.c.o[0m
+[2.682s] [ 17%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[2.683s] [ 17%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[2.683s] [ 17%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[2.702s] running egg_info
+[2.703s] creating base_interfaces.egg-info
+[2.723s] [ 20%] [32m[1mLinking C shared library libbase_interfaces__rosidl_generator_c.so[0m
+[2.733s] writing base_interfaces.egg-info/PKG-INFO
+[2.733s] writing dependency_links to base_interfaces.egg-info/dependency_links.txt
+[2.734s] writing top-level names to base_interfaces.egg-info/top_level.txt
+[2.734s] writing manifest file 'base_interfaces.egg-info/SOURCES.txt'
+[2.778s] [ 20%] Built target base_interfaces__rosidl_generator_c
+[2.795s] [ 25%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[2.796s] [ 25%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[2.802s] [ 28%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[2.826s] reading manifest file 'base_interfaces.egg-info/SOURCES.txt'
+[2.827s] writing manifest file 'base_interfaces.egg-info/SOURCES.txt'
+[2.874s] [ 28%] Built target ament_cmake_python_build_base_interfaces_egg
+[2.960s] [ 30%] [32mBuilding CXX object CMakeFiles/base_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/base_interfaces/msg/user_pose__type_support.cpp.o[0m
+[2.961s] [ 33%] [32mBuilding CXX object CMakeFiles/base_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/base_interfaces/msg/user_joint__type_support.cpp.o[0m
+[2.967s] [ 35%] [32mBuilding CXX object CMakeFiles/base_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/base_interfaces/msg/detail/user_joint__type_support.cpp.o[0m
+[2.973s] [ 38%] [32mBuilding CXX object CMakeFiles/base_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/base_interfaces/msg/detail/user_pose__type_support.cpp.o[0m
+[2.987s] [ 43%] [32mBuilding CXX object CMakeFiles/base_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/base_interfaces/msg/detail/dds_fastrtps/user_pose__type_support.cpp.o[0m
+[2.987s] [ 43%] [32mBuilding CXX object CMakeFiles/base_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/base_interfaces/msg/detail/dds_fastrtps/user_joint__type_support.cpp.o[0m
+[3.111s] [ 46%] [32mBuilding CXX object CMakeFiles/base_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/base_interfaces/msg/detail/user_joint__type_support_c.cpp.o[0m
+[3.113s] [ 48%] [32mBuilding CXX object CMakeFiles/base_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/base_interfaces/msg/detail/user_pose__type_support_c.cpp.o[0m
+[3.129s] [ 51%] [32mBuilding CXX object CMakeFiles/base_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/base_interfaces/msg/user_joint__type_support.cpp.o[0m
+[3.133s] [ 53%] [32mBuilding CXX object CMakeFiles/base_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/base_interfaces/msg/user_pose__type_support.cpp.o[0m
+[3.163s] [ 58%] [32mBuilding C object CMakeFiles/base_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/base_interfaces/msg/detail/user_pose__type_support.c.o[0m
+[3.164s] [ 58%] [32mBuilding C object CMakeFiles/base_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/base_interfaces/msg/detail/user_joint__type_support.c.o[0m
+[3.195s] [ 61%] [32m[1mLinking CXX shared library libbase_interfaces__rosidl_typesupport_c.so[0m
+[3.237s] [ 64%] [32m[1mLinking C shared library libbase_interfaces__rosidl_typesupport_introspection_c.so[0m
+[3.286s] [ 64%] Built target base_interfaces__rosidl_typesupport_c
+[3.311s] [ 64%] Built target base_interfaces__rosidl_typesupport_introspection_c
+[3.417s] [ 66%] [32m[1mLinking CXX shared library libbase_interfaces__rosidl_typesupport_cpp.so[0m
+[3.455s] [ 69%] [32m[1mLinking CXX shared library libbase_interfaces__rosidl_typesupport_introspection_cpp.so[0m
+[3.486s] [ 69%] Built target base_interfaces__rosidl_typesupport_cpp
+[3.518s] [ 69%] Built target base_interfaces__rosidl_typesupport_introspection_cpp
+[3.544s] [ 71%] [32m[1mLinking CXX shared library libbase_interfaces__rosidl_typesupport_fastrtps_cpp.so[0m
+[3.622s] [ 74%] [32m[1mLinking CXX shared library libbase_interfaces__rosidl_typesupport_fastrtps_c.so[0m
+[3.638s] [ 74%] Built target base_interfaces__rosidl_typesupport_fastrtps_cpp
+[3.710s] [ 74%] Built target base_interfaces__rosidl_typesupport_fastrtps_c
+[3.742s] [ 74%] Built target base_interfaces
+[3.776s] [ 76%] [34m[1mGenerating Python code for ROS interfaces[0m
+[4.152s] [ 76%] Built target base_interfaces__py
+[4.187s] [ 82%] [32mBuilding C object CMakeFiles/base_interfaces__rosidl_generator_py.dir/rosidl_generator_py/base_interfaces/msg/_user_joint_s.c.o[0m
+[4.187s] [ 82%] [32mBuilding C object CMakeFiles/base_interfaces__rosidl_generator_py.dir/rosidl_generator_py/base_interfaces/msg/_user_pose_s.c.o[0m
+[4.320s] [ 84%] [32m[1mLinking C shared library rosidl_generator_py/base_interfaces/libbase_interfaces__rosidl_generator_py.so[0m
+[4.380s] [ 84%] Built target base_interfaces__rosidl_generator_py
+[4.416s] [ 92%] [32mBuilding C object CMakeFiles/base_interfaces__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/base_interfaces/_base_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[4.416s] [ 92%] [32mBuilding C object CMakeFiles/base_interfaces__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/base_interfaces/_base_interfaces_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[4.416s] [ 92%] [32mBuilding C object CMakeFiles/base_interfaces__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/base_interfaces/_base_interfaces_s.ep.rosidl_typesupport_c.c.o[0m
+[4.534s] [ 94%] [32m[1mLinking C shared library rosidl_generator_py/base_interfaces/base_interfaces_s__rosidl_typesupport_c.cpython-312-x86_64-linux-gnu.so[0m
+[4.535s] [ 97%] [32m[1mLinking C shared library rosidl_generator_py/base_interfaces/base_interfaces_s__rosidl_typesupport_introspection_c.cpython-312-x86_64-linux-gnu.so[0m
+[4.540s] [100%] [32m[1mLinking C shared library rosidl_generator_py/base_interfaces/base_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-312-x86_64-linux-gnu.so[0m
+[4.587s] [100%] Built target base_interfaces__rosidl_typesupport_c__pyext
+[4.587s] [100%] Built target base_interfaces__rosidl_typesupport_introspection_c__pyext
+[4.590s] [100%] Built target base_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[4.609s] Invoked command in '/home/ubuntu/ws_engineer/build/base_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ws_moveit/install/moveit_configs_utils:/home/ubuntu/ws_moveit/install/launch_param_builder:/home/ubuntu/ws00_helloworld/install/pkg02_helloworld_py:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ws_engineer/build/base_interfaces -- -j16 -l16
+[4.625s] Invoking command in '/home/ubuntu/ws_engineer/build/base_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ws_moveit/install/moveit_configs_utils:/home/ubuntu/ws_moveit/install/launch_param_builder:/home/ubuntu/ws00_helloworld/install/pkg02_helloworld_py:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/ws_engineer/build/base_interfaces
+[4.639s] -- Install configuration: ""
+[4.640s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/ament_index/resource_index/rosidl_interfaces/base_interfaces
+[4.640s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces
+[4.640s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg
+[4.640s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/rosidl_generator_c__visibility_control.h
+[4.640s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/user_pose.h
+[4.640s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/user_joint.h
+[4.641s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail
+[4.641s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_pose__functions.c
+[4.641s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_pose__type_support.h
+[4.641s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_joint__type_support.h
+[4.641s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_pose__functions.h
+[4.641s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_pose__struct.h
+[4.641s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_joint__struct.h
+[4.641s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_joint__functions.h
+[4.642s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_joint__functions.c
+[4.642s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/environment/library_path.sh
+[4.642s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/environment/library_path.dsv
+[4.642s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/libbase_interfaces__rosidl_generator_c.so
+[4.643s] -- Set runtime path of "/home/ubuntu/ws_engineer/install/base_interfaces/lib/libbase_interfaces__rosidl_generator_c.so" to ""
+[4.643s] -- Up-to-date: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces
+[4.643s] -- Up-to-date: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg
+[4.643s] -- Up-to-date: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail
+[4.643s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_joint__rosidl_typesupport_fastrtps_c.h
+[4.643s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_pose__rosidl_typesupport_fastrtps_c.h
+[4.643s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[4.643s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/libbase_interfaces__rosidl_typesupport_fastrtps_c.so
+[4.643s] -- Set runtime path of "/home/ubuntu/ws_engineer/install/base_interfaces/lib/libbase_interfaces__rosidl_typesupport_fastrtps_c.so" to ""
+[4.644s] -- Up-to-date: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces
+[4.644s] -- Up-to-date: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg
+[4.644s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[4.644s] -- Up-to-date: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail
+[4.644s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_pose__rosidl_typesupport_introspection_c.h
+[4.644s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_joint__rosidl_typesupport_introspection_c.h
+[4.644s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_joint__type_support.c
+[4.644s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_pose__type_support.c
+[4.644s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/libbase_interfaces__rosidl_typesupport_introspection_c.so
+[4.645s] -- Set runtime path of "/home/ubuntu/ws_engineer/install/base_interfaces/lib/libbase_interfaces__rosidl_typesupport_introspection_c.so" to ""
+[4.645s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/libbase_interfaces__rosidl_typesupport_c.so
+[4.645s] -- Set runtime path of "/home/ubuntu/ws_engineer/install/base_interfaces/lib/libbase_interfaces__rosidl_typesupport_c.so" to ""
+[4.645s] -- Up-to-date: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces
+[4.645s] -- Up-to-date: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg
+[4.645s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[4.645s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/user_joint.hpp
+[4.645s] -- Up-to-date: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail
+[4.645s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_joint__struct.hpp
+[4.646s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_joint__builder.hpp
+[4.646s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_pose__struct.hpp
+[4.646s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_pose__traits.hpp
+[4.646s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_pose__type_support.hpp
+[4.646s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_joint__type_support.hpp
+[4.646s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_pose__builder.hpp
+[4.646s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_joint__traits.hpp
+[4.646s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/user_pose.hpp
+[4.647s] -- Up-to-date: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces
+[4.647s] -- Up-to-date: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg
+[4.647s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[4.647s] -- Up-to-date: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail
+[4.647s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_pose__rosidl_typesupport_fastrtps_cpp.hpp
+[4.647s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_joint__rosidl_typesupport_fastrtps_cpp.hpp
+[4.647s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/dds_fastrtps
+[4.647s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/libbase_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[4.648s] -- Set runtime path of "/home/ubuntu/ws_engineer/install/base_interfaces/lib/libbase_interfaces__rosidl_typesupport_fastrtps_cpp.so" to ""
+[4.648s] -- Up-to-date: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces
+[4.648s] -- Up-to-date: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg
+[4.648s] -- Up-to-date: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail
+[4.649s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_joint__type_support.cpp
+[4.649s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_pose__type_support.cpp
+[4.649s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_pose__rosidl_typesupport_introspection_cpp.hpp
+[4.649s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/include/base_interfaces/base_interfaces/msg/detail/user_joint__rosidl_typesupport_introspection_cpp.hpp
+[4.649s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/libbase_interfaces__rosidl_typesupport_introspection_cpp.so
+[4.649s] -- Set runtime path of "/home/ubuntu/ws_engineer/install/base_interfaces/lib/libbase_interfaces__rosidl_typesupport_introspection_cpp.so" to ""
+[4.649s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/libbase_interfaces__rosidl_typesupport_cpp.so
+[4.650s] -- Set runtime path of "/home/ubuntu/ws_engineer/install/base_interfaces/lib/libbase_interfaces__rosidl_typesupport_cpp.so" to ""
+[4.650s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/environment/pythonpath.sh
+[4.650s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/environment/pythonpath.dsv
+[4.650s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces-0.0.0-py3.12.egg-info
+[4.650s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces-0.0.0-py3.12.egg-info/dependency_links.txt
+[4.650s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces-0.0.0-py3.12.egg-info/SOURCES.txt
+[4.650s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces-0.0.0-py3.12.egg-info/top_level.txt
+[4.651s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces-0.0.0-py3.12.egg-info/PKG-INFO
+[4.651s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces
+[4.651s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/base_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-312-x86_64-linux-gnu.so
+[4.651s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/libbase_interfaces__rosidl_generator_py.so
+[4.651s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/base_interfaces_s__rosidl_typesupport_c.cpython-312-x86_64-linux-gnu.so
+[4.651s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/__init__.py
+[4.651s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/base_interfaces_s__rosidl_typesupport_introspection_c.cpython-312-x86_64-linux-gnu.so
+[4.652s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/msg
+[4.652s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/msg/_user_pose_s.c
+[4.652s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/msg/__init__.py
+[4.652s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/msg/_user_pose.py
+[4.652s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/msg/_user_joint.py
+[4.652s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/msg/_user_joint_s.c
+[4.652s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/_base_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[4.653s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/_base_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[4.653s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/_base_interfaces_s.ep.rosidl_typesupport_c.c
+[4.703s] Listing '/home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces'...
+[4.703s] Compiling '/home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/__init__.py'...
+[4.704s] Listing '/home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/msg'...
+[4.704s] Compiling '/home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/msg/__init__.py'...
+[4.704s] Compiling '/home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/msg/_user_joint.py'...
+[4.704s] Compiling '/home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/msg/_user_pose.py'...
+[4.711s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/base_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-312-x86_64-linux-gnu.so
+[4.711s] -- Set runtime path of "/home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/base_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-312-x86_64-linux-gnu.so" to ""
+[4.711s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/base_interfaces_s__rosidl_typesupport_introspection_c.cpython-312-x86_64-linux-gnu.so
+[4.712s] -- Set runtime path of "/home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/base_interfaces_s__rosidl_typesupport_introspection_c.cpython-312-x86_64-linux-gnu.so" to ""
+[4.712s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/base_interfaces_s__rosidl_typesupport_c.cpython-312-x86_64-linux-gnu.so
+[4.712s] -- Set runtime path of "/home/ubuntu/ws_engineer/install/base_interfaces/lib/python3.12/site-packages/base_interfaces/base_interfaces_s__rosidl_typesupport_c.cpython-312-x86_64-linux-gnu.so" to ""
+[4.712s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/lib/libbase_interfaces__rosidl_generator_py.so
+[4.713s] -- Set runtime path of "/home/ubuntu/ws_engineer/install/base_interfaces/lib/libbase_interfaces__rosidl_generator_py.so" to ""
+[4.713s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/msg/UserJoint.idl
+[4.713s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/msg/UserPose.idl
+[4.713s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/msg/UserJoint.msg
+[4.713s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/msg/UserPose.msg
+[4.713s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/ament_index/resource_index/package_run_dependencies/base_interfaces
+[4.714s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/ament_index/resource_index/parent_prefix_path/base_interfaces
+[4.714s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/environment/ament_prefix_path.sh
+[4.714s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/environment/ament_prefix_path.dsv
+[4.714s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/environment/path.sh
+[4.714s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/environment/path.dsv
+[4.714s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/local_setup.bash
+[4.715s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/local_setup.sh
+[4.715s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/local_setup.zsh
+[4.715s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/local_setup.dsv
+[4.715s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/package.dsv
+[4.715s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/ament_index/resource_index/packages/base_interfaces
+[4.716s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/export_base_interfaces__rosidl_generator_cExport.cmake
+[4.716s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/export_base_interfaces__rosidl_generator_cExport-noconfig.cmake
+[4.716s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/export_base_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[4.716s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/export_base_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[4.716s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/base_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[4.716s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/base_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[4.717s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/base_interfaces__rosidl_typesupport_cExport.cmake
+[4.717s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/base_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[4.717s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/export_base_interfaces__rosidl_generator_cppExport.cmake
+[4.717s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/export_base_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[4.717s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/export_base_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[4.717s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/base_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[4.717s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/base_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[4.718s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/base_interfaces__rosidl_typesupport_cppExport.cmake
+[4.718s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/base_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[4.718s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/export_base_interfaces__rosidl_generator_pyExport.cmake
+[4.718s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/export_base_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[4.718s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/rosidl_cmake-extras.cmake
+[4.718s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[4.719s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[4.719s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[4.719s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[4.719s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[4.719s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[4.720s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/base_interfacesConfig.cmake
+[4.720s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/cmake/base_interfacesConfig-version.cmake
+[4.720s] -- Installing: /home/ubuntu/ws_engineer/install/base_interfaces/share/base_interfaces/package.xml
+[4.723s] Invoked command in '/home/ubuntu/ws_engineer/build/base_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ws_moveit/install/moveit_configs_utils:/home/ubuntu/ws_moveit/install/launch_param_builder:/home/ubuntu/ws00_helloworld/install/pkg02_helloworld_py:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/ws_engineer/build/base_interfaces

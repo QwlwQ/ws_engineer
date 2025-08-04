@@ -1,0 +1,11 @@
+/home/ubuntu/ws_engineer/build/engineer_protocol/CMakeFiles/uninstall.dir
+/home/ubuntu/ws_engineer/build/engineer_protocol/CMakeFiles/engineer_protocol_uninstall.dir
+/home/ubuntu/ws_engineer/build/engineer_protocol/CMakeFiles/uart-serial-driver.dir
+/home/ubuntu/ws_engineer/build/engineer_protocol/CMakeFiles/uart_serial.dir
+/home/ubuntu/ws_engineer/build/engineer_protocol/CMakeFiles/test.dir
+/home/ubuntu/ws_engineer/build/engineer_protocol/CMakeFiles/edit_cache.dir
+/home/ubuntu/ws_engineer/build/engineer_protocol/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/ws_engineer/build/engineer_protocol/CMakeFiles/list_install_components.dir
+/home/ubuntu/ws_engineer/build/engineer_protocol/CMakeFiles/install.dir
+/home/ubuntu/ws_engineer/build/engineer_protocol/CMakeFiles/install/local.dir
+/home/ubuntu/ws_engineer/build/engineer_protocol/CMakeFiles/install/strip.dir

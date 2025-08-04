@@ -1,0 +1,41 @@
+[0.016s] Invoking command in '/home/ubuntu/ws_engineer/build/engineer_urdf': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ws_moveit/install/moveit_configs_utils:/home/ubuntu/ws_moveit/install/launch_param_builder:/home/ubuntu/ws00_helloworld/install/pkg02_helloworld_py:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ws_engineer/build/engineer_urdf -- -j16 -l16
+[0.106s] [ 50%] Built target joint_state_reader
+[0.114s] [100%] Built target end_effector_pose_reader
+[0.150s] Invoked command in '/home/ubuntu/ws_engineer/build/engineer_urdf' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ws_moveit/install/moveit_configs_utils:/home/ubuntu/ws_moveit/install/launch_param_builder:/home/ubuntu/ws00_helloworld/install/pkg02_helloworld_py:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ws_engineer/build/engineer_urdf -- -j16 -l16
+[0.170s] Invoking command in '/home/ubuntu/ws_engineer/build/engineer_urdf': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ws_moveit/install/moveit_configs_utils:/home/ubuntu/ws_moveit/install/launch_param_builder:/home/ubuntu/ws00_helloworld/install/pkg02_helloworld_py:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/ws_engineer/build/engineer_urdf
+[0.184s] -- Install configuration: ""
+[0.184s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/lib/engineer_urdf/joint_state_reader
+[0.184s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/lib/engineer_urdf/end_effector_pose_reader
+[0.184s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/launch
+[0.184s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/launch/control_launch.py
+[0.184s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/launch/display_launch.py
+[0.184s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes
+[0.184s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes/Link2.STL
+[0.184s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes/Link1.STL
+[0.185s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes/Link5.STL
+[0.185s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes/Link0.STL
+[0.185s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes/Link4.STL
+[0.185s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes/base_link.STL
+[0.185s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/meshes/Link3.STL
+[0.185s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/rviz
+[0.185s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/rviz/urdf.rviz
+[0.185s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/urdf
+[0.185s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/urdf/xacro
+[0.185s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/urdf/urdf
+[0.185s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/urdf/urdf/manipulator.urdf
+[0.185s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/ament_index/resource_index/package_run_dependencies/engineer_urdf
+[0.185s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/ament_index/resource_index/parent_prefix_path/engineer_urdf
+[0.185s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/environment/ament_prefix_path.sh
+[0.185s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/environment/ament_prefix_path.dsv
+[0.185s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/environment/path.sh
+[0.185s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/environment/path.dsv
+[0.185s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/local_setup.bash
+[0.186s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/local_setup.sh
+[0.186s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/local_setup.zsh
+[0.186s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/local_setup.dsv
+[0.186s] -- Installing: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/package.dsv
+[0.186s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/ament_index/resource_index/packages/engineer_urdf
+[0.186s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/cmake/engineer_urdfConfig.cmake
+[0.186s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/cmake/engineer_urdfConfig-version.cmake
+[0.186s] -- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_urdf/share/engineer_urdf/package.xml
+[0.188s] Invoked command in '/home/ubuntu/ws_engineer/build/engineer_urdf' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ws_moveit/install/moveit_configs_utils:/home/ubuntu/ws_moveit/install/launch_param_builder:/home/ubuntu/ws00_helloworld/install/pkg02_helloworld_py:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/ws_engineer/build/engineer_urdf

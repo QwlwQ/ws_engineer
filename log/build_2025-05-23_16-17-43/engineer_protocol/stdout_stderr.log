@@ -1,0 +1,12 @@
+[35m[1mConsolidate compiler generated dependencies of target uart-serial-driver[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/uart-serial-driver.dir/src/uart_serial_driver.cpp.o[0m
+In file included from [01m[K/home/ubuntu/ws_engineer/src/engineer_protocol/src/uart_serial_driver.cpp:1[m[K:
+[01m[K/home/ubuntu/ws_engineer/src/engineer_protocol/include/engineer_protocol/uart_serial_driver.hpp:13:8:[m[K [01;31m[Kerror: [m[Kdeclaration of ‘[01m[Kauto uart::idntifier_green[m[K’ has no initializer
+   13 | extern [01;31m[Kauto[m[K idntifier_green;
+      |        [01;31m[K^~~~[m[K
+[01m[K/home/ubuntu/ws_engineer/src/engineer_protocol/include/engineer_protocol/uart_serial_driver.hpp:14:8:[m[K [01;31m[Kerror: [m[Kdeclaration of ‘[01m[Kauto uart::idntifier_red[m[K’ has no initializer
+   14 | extern [01;31m[Kauto[m[K idntifier_red;
+      |        [01;31m[K^~~~[m[K
+gmake[2]: *** [CMakeFiles/uart-serial-driver.dir/build.make:76：CMakeFiles/uart-serial-driver.dir/src/uart_serial_driver.cpp.o] 错误 1
+gmake[1]: *** [CMakeFiles/Makefile2:139：CMakeFiles/uart-serial-driver.dir/all] 错误 2
+gmake: *** [Makefile:146：all] 错误 2

@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-9c03a8483335238773a9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "engineer_urdf",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "end_effector_pose_reader::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-end_effector_pose_reader-c19359cf4bef14b149e0.json",
+					"name" : "end_effector_pose_reader",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "engineer_urdf_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-engineer_urdf_uninstall-6dbc6f611bea2e420e74.json",
+					"name" : "engineer_urdf_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "joint_state_reader::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-joint_state_reader-d04d3bb1492e0f0a8eb0.json",
+					"name" : "joint_state_reader",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-b40eac42f54b38714143.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ubuntu/ws_engineer/build/engineer_urdf",
+		"source" : "/home/ubuntu/ws_engineer/src/engineer_urdf"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

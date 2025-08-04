@@ -1,0 +1,7 @@
+/usr/bin/ld: libuart-serial-driver.a(uart_serial_driver.cpp.o):(.bss+0x0): multiple definition of `uart::idntifier_green[abi:cxx11]'; CMakeFiles/uart_serial.dir/src/uart_serial.cpp.o:(.bss+0x0): first defined here
+/usr/bin/ld: libuart-serial-driver.a(uart_serial_driver.cpp.o):(.bss+0x20): multiple definition of `uart::idntifier_red[abi:cxx11]'; CMakeFiles/uart_serial.dir/src/uart_serial.cpp.o:(.bss+0x20): first defined here
+/usr/bin/ld: warning: libfmt.so.8, needed by /lib/x86_64-linux-gnu/libspdlog.so.1, may conflict with libfmt.so.9
+collect2: error: ld returned 1 exit status
+gmake[2]: *** [CMakeFiles/uart_serial.dir/build.make:199：uart_serial] 错误 1
+gmake[1]: *** [CMakeFiles/Makefile2:165：CMakeFiles/uart_serial.dir/all] 错误 2
+gmake: *** [Makefile:146：all] 错误 2

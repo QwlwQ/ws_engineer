@@ -1,0 +1,31 @@
+[35m[1mConsolidate compiler generated dependencies of target uart-serial-driver[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/uart-serial-driver.dir/src/uart_serial_driver.cpp.o[0m
+In file included from [01m[K/home/ubuntu/ws_engineer/src/engineer_protocol/src/uart_serial_driver.cpp:1[m[K:
+[01m[K/home/ubuntu/ws_engineer/src/engineer_protocol/include/engineer_protocol/uart_serial_driver.hpp:13:8:[m[K [01;31m[Kerror: [m[K‘[01m[Kidntifier_green[m[K’ does not name a type
+   13 | extern [01;31m[Kidntifier_green[m[K;
+      |        [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/ubuntu/ws_engineer/src/engineer_protocol/include/engineer_protocol/uart_serial_driver.hpp:14:8:[m[K [01;31m[Kerror: [m[K‘[01m[Kidntifier_red[m[K’ does not name a type
+   14 | extern [01;31m[Kidntifier_red[m[K;
+      |        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/ubuntu/ws_engineer/src/engineer_protocol/src/uart_serial_driver.cpp:[m[K In constructor ‘[01m[Kuart::SerialPort::SerialPort(int)[m[K’:
+[01m[K/home/ubuntu/ws_engineer/src/engineer_protocol/src/uart_serial_driver.cpp:21:58:[m[K [01;31m[Kerror: [m[K‘[01m[Kidntifier_red[m[K’ was not declared in this scope
+   21 |       fmt::print("[{}] Open serial device failed: {}\n", [01;31m[Kidntifier_red[m[K, DeviceName[i]);
+      |                                                          [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/ubuntu/ws_engineer/src/engineer_protocol/src/uart_serial_driver.cpp:23:59:[m[K [01;31m[Kerror: [m[K‘[01m[Kidntifier_green[m[K’ was not declared in this scope
+   23 |       fmt::print("[{}] Open serial device success: {}\n", [01;31m[Kidntifier_green[m[K, DeviceName[i]);
+      |                                                           [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/ubuntu/ws_engineer/src/engineer_protocol/src/uart_serial_driver.cpp:[m[K In destructor ‘[01m[Kuart::SerialPort::~SerialPort()[m[K’:
+[01m[K/home/ubuntu/ws_engineer/src/engineer_protocol/src/uart_serial_driver.cpp:58:74:[m[K [01;31m[Kerror: [m[K‘[01m[Kidntifier_green[m[K’ was not declared in this scope
+   58 |   if (!close(fd)) { fmt::print("[{}] Close serial device success: {}\n", [01;31m[Kidntifier_green[m[K, fd); }
+      |                                                                          [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/ubuntu/ws_engineer/src/engineer_protocol/src/uart_serial_driver.cpp:[m[K In member function ‘[01m[Kvoid uart::SerialPort::receiveData()[m[K’:
+[01m[K/home/ubuntu/ws_engineer/src/engineer_protocol/src/uart_serial_driver.cpp:76:45:[m[K [01;31m[Kerror: [m[K‘[01m[Kidntifier_green[m[K’ was not declared in this scope
+   76 |         fmt::print("[{}] receiveData() ->", [01;31m[Kidntifier_green[m[K);
+      |                                             [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/ubuntu/ws_engineer/src/engineer_protocol/src/uart_serial_driver.cpp:[m[K In member function ‘[01m[Kvoid uart::SerialPort::writeData(const int16_t&, const int16_t&, const int16_t&, const int16_t&, const int16_t&, const int16_t&, const int16_t&, const int16_t&, const int16_t&, const int16_t&, const int16_t&, const int16_t&)[m[K’:
+[01m[K/home/ubuntu/ws_engineer/src/engineer_protocol/src/uart_serial_driver.cpp:126:39:[m[K [01;31m[Kerror: [m[K‘[01m[Kidntifier_green[m[K’ was not declared in this scope
+  126 |     fmt::print("[{}] writeData() ->", [01;31m[Kidntifier_green[m[K);
+      |                                       [01;31m[K^~~~~~~~~~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/uart-serial-driver.dir/build.make:76：CMakeFiles/uart-serial-driver.dir/src/uart_serial_driver.cpp.o] 错误 1
+gmake[1]: *** [CMakeFiles/Makefile2:139：CMakeFiles/uart-serial-driver.dir/all] 错误 2
+gmake: *** [Makefile:146：all] 错误 2

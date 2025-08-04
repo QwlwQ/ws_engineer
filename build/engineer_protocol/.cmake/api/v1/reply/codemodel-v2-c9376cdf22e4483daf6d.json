@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-4abf4835c575e0c56f55.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "engineer_protocol",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "engineer_protocol_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-engineer_protocol_uninstall-10045eaf476cbbce4d54.json",
+					"name" : "engineer_protocol_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uart-serial-driver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uart-serial-driver-e860cc4ee093988764df.json",
+					"name" : "uart-serial-driver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uart_serial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uart_serial-db685b0fc09d8165b934.json",
+					"name" : "uart_serial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-ca8e65af1b9ed721702c.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ubuntu/ws_engineer/build/engineer_protocol",
+		"source" : "/home/ubuntu/ws_engineer/src/engineer_protocol"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,20 @@
+[ 50%] Built target uart-serial-driver
+[100%] Built target uart_serial
+-- Install configuration: ""
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/lib/engineer_protocol/uart_serial
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/lib/engineer_protocol/libuart-serial-driver.a
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/ament_index/resource_index/package_run_dependencies/engineer_protocol
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/ament_index/resource_index/parent_prefix_path/engineer_protocol
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/environment/ament_prefix_path.sh
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/environment/path.sh
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/environment/path.dsv
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/local_setup.bash
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/local_setup.sh
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/local_setup.zsh
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/local_setup.dsv
+-- Installing: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/package.dsv
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/ament_index/resource_index/packages/engineer_protocol
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/cmake/engineer_protocolConfig.cmake
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/cmake/engineer_protocolConfig-version.cmake
+-- Up-to-date: /home/ubuntu/ws_engineer/install/engineer_protocol/share/engineer_protocol/package.xml
