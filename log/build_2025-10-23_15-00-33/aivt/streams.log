@@ -1,0 +1,67 @@
+[0.010s] Invoking command in '/home/user/ws_siasun/build/aivt': AMENT_PREFIX_PATH=/home/user/ws_siasun/install/duco_ros_driver:/home/user/ws_siasun/install/duco_arms:/home/user/ws_siasun/install/duco_support:/home/user/ws_siasun/install/duco_msg:/home/user/ws_siasun/install/aivt_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/user/ws_siasun/install/duco_ros_driver:/home/user/ws_siasun/install/duco_arms:/home/user/ws_siasun/install/duco_support:/home/user/ws_siasun/install/duco_msg:/home/user/ws_siasun/install/aivt_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/user/ws_siasun/install/duco_msg/lib:/home/user/ws_siasun/install/aivt_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/user/ws_siasun/install/duco_msg/local/lib/python3.10/dist-packages:/home/user/ws_siasun/install/aivt_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/user/ws_siasun/build/aivt -- -j16 -l16
+[0.047s] [35m[1mConsolidate compiler generated dependencies of target robot_motion[0m
+[0.055s] [ 18%] Built target robot_motion_test
+[0.055s] [ 25%] Built target tcp_calibration
+[0.056s] [ 37%] Built target grasp_touch_control
+[0.058s] [ 50%] Built target hand_eye_calibration
+[0.058s] [ 62%] Built target calibration_calculation
+[0.062s] [ 75%] Built target chessboard_detection
+[0.063s] [ 81%] [32mBuilding CXX object CMakeFiles/robot_motion.dir/src/robot_motion.cpp.o[0m
+[0.065s] [ 93%] Built target obstacle_avoidance
+[2.005s] [01m[K/home/user/ws_siasun/src/aivt/src/robot_motion.cpp:[m[K In member function ‘[01m[Kvoid RobotMotion::repeatMove()[m[K’:
+[2.005s] [01m[K/home/user/ws_siasun/src/aivt/src/robot_motion.cpp:256:26:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<std::array<float, 6> >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wsign-compare-Wsign-compare]8;;[m[K]
+[2.005s]   256 |         for(int i = 0; [01;35m[Ki < recorded_joint_state_.size()[m[K; i++)
+[2.006s]       |                        [01;35m[K~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[11.694s] [100%] [32m[1mLinking CXX executable robot_motion[0m
+[12.295s] [100%] Built target robot_motion
+[12.304s] Invoked command in '/home/user/ws_siasun/build/aivt' returned '0': AMENT_PREFIX_PATH=/home/user/ws_siasun/install/duco_ros_driver:/home/user/ws_siasun/install/duco_arms:/home/user/ws_siasun/install/duco_support:/home/user/ws_siasun/install/duco_msg:/home/user/ws_siasun/install/aivt_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/user/ws_siasun/install/duco_ros_driver:/home/user/ws_siasun/install/duco_arms:/home/user/ws_siasun/install/duco_support:/home/user/ws_siasun/install/duco_msg:/home/user/ws_siasun/install/aivt_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/user/ws_siasun/install/duco_msg/lib:/home/user/ws_siasun/install/aivt_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/user/ws_siasun/install/duco_msg/local/lib/python3.10/dist-packages:/home/user/ws_siasun/install/aivt_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/user/ws_siasun/build/aivt -- -j16 -l16
+[12.305s] Invoking command in '/home/user/ws_siasun/build/aivt': AMENT_PREFIX_PATH=/home/user/ws_siasun/install/duco_ros_driver:/home/user/ws_siasun/install/duco_arms:/home/user/ws_siasun/install/duco_support:/home/user/ws_siasun/install/duco_msg:/home/user/ws_siasun/install/aivt_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/user/ws_siasun/install/duco_ros_driver:/home/user/ws_siasun/install/duco_arms:/home/user/ws_siasun/install/duco_support:/home/user/ws_siasun/install/duco_msg:/home/user/ws_siasun/install/aivt_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/user/ws_siasun/install/duco_msg/lib:/home/user/ws_siasun/install/aivt_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/user/ws_siasun/install/duco_msg/local/lib/python3.10/dist-packages:/home/user/ws_siasun/install/aivt_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/user/ws_siasun/build/aivt
+[12.311s] -- Install configuration: ""
+[12.311s] -- Up-to-date: /home/user/ws_siasun/install/aivt/lib/aivt/robot_motion_test
+[12.311s] -- Up-to-date: /home/user/ws_siasun/install/aivt/lib/aivt/hand_eye_calibration
+[12.311s] -- Up-to-date: /home/user/ws_siasun/install/aivt/lib/aivt/chessboard_detection
+[12.311s] -- Up-to-date: /home/user/ws_siasun/install/aivt/lib/aivt/grasp_touch_control
+[12.311s] -- Up-to-date: /home/user/ws_siasun/install/aivt/lib/aivt/tcp_calibration
+[12.311s] -- Installing: /home/user/ws_siasun/install/aivt/lib/aivt/robot_motion
+[12.318s] -- Set runtime path of "/home/user/ws_siasun/install/aivt/lib/aivt/robot_motion" to ""
+[12.318s] -- Up-to-date: /home/user/ws_siasun/install/aivt/lib/aivt/calibration_calculation
+[12.318s] -- Up-to-date: /home/user/ws_siasun/install/aivt/lib/aivt/obstacle_avoidance
+[12.318s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/launch
+[12.318s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/launch/gripper_server.launch.py
+[12.318s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/launch/hand_eye_calibration.launch.py
+[12.319s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config
+[12.319s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_6.jpg
+[12.319s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_12.jpg
+[12.319s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_5.jpg
+[12.319s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/hand_eye_transformer.yaml
+[12.319s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_13.jpg
+[12.319s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_0.jpg
+[12.319s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_14.jpg
+[12.319s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_2.jpg
+[12.319s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_4.jpg
+[12.319s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_1.jpg
+[12.319s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_7.jpg
+[12.319s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_3.jpg
+[12.319s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/robot_pose.yaml
+[12.319s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_8.jpg
+[12.319s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/calibration_data.yaml
+[12.319s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_11.jpg
+[12.319s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_10.jpg
+[12.319s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_15.jpg
+[12.320s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_9.jpg
+[12.320s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/ament_index/resource_index/package_run_dependencies/aivt
+[12.320s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/ament_index/resource_index/parent_prefix_path/aivt
+[12.320s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/environment/ament_prefix_path.sh
+[12.320s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/environment/ament_prefix_path.dsv
+[12.321s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/environment/path.sh
+[12.321s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/environment/path.dsv
+[12.321s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/local_setup.bash
+[12.321s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/local_setup.sh
+[12.321s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/local_setup.zsh
+[12.321s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/local_setup.dsv
+[12.321s] -- Installing: /home/user/ws_siasun/install/aivt/share/aivt/package.dsv
+[12.321s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/ament_index/resource_index/packages/aivt
+[12.321s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/cmake/aivtConfig.cmake
+[12.321s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/cmake/aivtConfig-version.cmake
+[12.321s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/package.xml
+[12.321s] Invoked command in '/home/user/ws_siasun/build/aivt' returned '0': AMENT_PREFIX_PATH=/home/user/ws_siasun/install/duco_ros_driver:/home/user/ws_siasun/install/duco_arms:/home/user/ws_siasun/install/duco_support:/home/user/ws_siasun/install/duco_msg:/home/user/ws_siasun/install/aivt_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/user/ws_siasun/install/duco_ros_driver:/home/user/ws_siasun/install/duco_arms:/home/user/ws_siasun/install/duco_support:/home/user/ws_siasun/install/duco_msg:/home/user/ws_siasun/install/aivt_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/user/ws_siasun/install/duco_msg/lib:/home/user/ws_siasun/install/aivt_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/user/ws_siasun/install/duco_msg/local/lib/python3.10/dist-packages:/home/user/ws_siasun/install/aivt_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/user/ws_siasun/build/aivt

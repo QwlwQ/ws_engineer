@@ -1,0 +1,8 @@
+[ 12%] Built target grasp_touch_control
+[ 25%] Built target calibration_calculation
+[ 37%] Built target chessboard_detection
+[ 50%] Built target hand_eye_calibration
+[ 62%] Built target robot_motion_test
+[ 75%] Built target tcp_calibration
+[ 87%] Built target robot_motion
+[ 93%] [32mBuilding CXX object CMakeFiles/obstacle_avoidance.dir/src/obstacle_avoidance.cpp.o[0m

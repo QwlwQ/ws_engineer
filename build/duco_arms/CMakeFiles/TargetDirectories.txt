@@ -1,0 +1,9 @@
+/home/user/ws_siasun/build/duco_arms/CMakeFiles/uninstall.dir
+/home/user/ws_siasun/build/duco_arms/CMakeFiles/duco_arms_uninstall.dir
+/home/user/ws_siasun/build/duco_arms/CMakeFiles/test.dir
+/home/user/ws_siasun/build/duco_arms/CMakeFiles/edit_cache.dir
+/home/user/ws_siasun/build/duco_arms/CMakeFiles/rebuild_cache.dir
+/home/user/ws_siasun/build/duco_arms/CMakeFiles/list_install_components.dir
+/home/user/ws_siasun/build/duco_arms/CMakeFiles/install.dir
+/home/user/ws_siasun/build/duco_arms/CMakeFiles/install/local.dir
+/home/user/ws_siasun/build/duco_arms/CMakeFiles/install/strip.dir

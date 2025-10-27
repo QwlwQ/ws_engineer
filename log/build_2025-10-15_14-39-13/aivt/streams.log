@@ -1,0 +1,151 @@
+[0.011s] Invoking command in '/home/user/ws_siasun/build/aivt': CMAKE_PREFIX_PATH=/home/user/ws_siasun/install/duco_ros_driver:/home/user/ws_siasun/install/duco_arms:/home/user/ws_siasun/install/duco_support:/home/user/ws_siasun/install/duco_msg:/home/user/ws_siasun/install/aivt_interfaces:/home/user/ws_siasun/install/robot_control:/home/user/ws_siasun/install/aivt:/home/user/ws_siasun/install/duco_gcr3_618_moveit_config:/opt/ros/humble /usr/bin/cmake --build /home/user/ws_siasun/build/aivt -- -j16 -l16
+[0.032s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.112s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[0.134s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.135s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.138s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.143s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.150s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.167s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.168s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.236s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.265s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[0.280s] -- Found duco_msg: 0.0.0 (/home/user/ws_siasun/install/duco_msg/share/duco_msg/cmake)
+[0.288s] -- Found aivt_interfaces: 0.0.0 (/home/user/ws_siasun/install/aivt_interfaces/share/aivt_interfaces/cmake)
+[0.296s] -- Found cv_bridge: 3.2.1 (/opt/ros/humble/share/cv_bridge/cmake)
+[0.298s] -- Found tf2_ros: 0.25.12 (/opt/ros/humble/share/tf2_ros/cmake)
+[0.342s] -- Found tf2_geometry_msgs: 0.25.12 (/opt/ros/humble/share/tf2_geometry_msgs/cmake)
+[0.344s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[0.345s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[0.345s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[0.357s] -- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+[0.376s] -- FLANN found (include: /usr/include, lib: /usr/lib/x86_64-linux-gnu/libflann_cpp.so)
+[0.495s] -- Found Eigen3: /usr/include/eigen3 (found version "3.4.0") 
+[0.568s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[0.572s] -- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+[0.572s] [0m** WARNING ** io features related to pcap will be disabled[0m
+[0.698s] -- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+[0.704s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[0.709s] -- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+[0.799s] -- Found Qhull version 8.0.2
+[0.887s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[0.973s] -- looking for PCL_COMMON
+[0.973s] -- looking for PCL_KDTREE
+[0.973s] -- looking for PCL_OCTREE
+[0.973s] -- looking for PCL_SEARCH
+[0.973s] -- looking for PCL_SAMPLE_CONSENSUS
+[0.974s] -- looking for PCL_FILTERS
+[0.974s] -- looking for PCL_2D
+[0.974s] -- looking for PCL_GEOMETRY
+[0.974s] -- looking for PCL_IO
+[0.974s] -- looking for PCL_FEATURES
+[0.975s] -- looking for PCL_ML
+[0.975s] -- looking for PCL_SEGMENTATION
+[0.975s] -- looking for PCL_VISUALIZATION
+[0.975s] -- looking for PCL_SURFACE
+[0.976s] -- looking for PCL_REGISTRATION
+[0.976s] -- looking for PCL_KEYPOINTS
+[0.976s] -- looking for PCL_TRACKING
+[0.976s] -- looking for PCL_RECOGNITION
+[0.977s] -- looking for PCL_STEREO
+[0.977s] -- looking for PCL_APPS
+[0.978s] -- looking for PCL_IN_HAND_SCANNER
+[0.978s] -- looking for PCL_MODELER
+[0.978s] -- looking for PCL_POINT_CLOUD_EDITOR
+[0.978s] -- looking for PCL_OUTOFCORE
+[0.978s] -- looking for PCL_PEOPLE
+[0.979s] -- Found pcl_conversions: 2.4.5 (/opt/ros/humble/share/pcl_conversions/cmake)
+[0.993s] -- Found duco_ros_driver: 0.0.0 (/home/user/ws_siasun/install/duco_ros_driver/share/duco_ros_driver/cmake)
+[1.006s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.046s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.046s] -- Configured cppcheck include dirs: 
+[1.046s] -- Configured cppcheck exclude dirs and/or files: 
+[1.047s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.047s] -- Added test 'lint_cmake' to check CMake code style
+[1.047s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.048s] -- Added test 'uncrustify' to check C / C++ code style
+[1.048s] -- Configured uncrustify additional arguments: 
+[1.048s] -- Added test 'xmllint' to check XML markup files
+[1.048s] -- Configuring done
+[1.084s] [0mWARNING: Target "obstacle_avoidance" requests linking to directory "/usr/include/pcl-1.12".  Targets may link only to libraries.  CMake is dropping the item.[0m
+[1.084s] [0mWARNING: Target "obstacle_avoidance" requests linking to directory "/usr/include/eigen3".  Targets may link only to libraries.  CMake is dropping the item.[0m
+[1.084s] [0mWARNING: Target "obstacle_avoidance" requests linking to directory "/usr/include".  Targets may link only to libraries.  CMake is dropping the item.[0m
+[1.084s] [0mWARNING: Target "obstacle_avoidance" requests linking to directory "/usr/include/ni".  Targets may link only to libraries.  CMake is dropping the item.[0m
+[1.084s] [0mWARNING: Target "obstacle_avoidance" requests linking to directory "/usr/include/openni2".  Targets may link only to libraries.  CMake is dropping the item.[0m
+[1.100s] -- Generating done
+[1.113s] -- Build files have been written to: /home/user/ws_siasun/build/aivt
+[1.136s] [35m[1mConsolidate compiler generated dependencies of target hand_eye_calibration[0m
+[1.136s] [35m[1mConsolidate compiler generated dependencies of target tcp_calibration[0m
+[1.138s] [35m[1mConsolidate compiler generated dependencies of target robot_motion_test[0m
+[1.138s] [35m[1mConsolidate compiler generated dependencies of target grasp_touch_control[0m
+[1.138s] [35m[1mConsolidate compiler generated dependencies of target robot_motion[0m
+[1.138s] [35m[1mConsolidate compiler generated dependencies of target chessboard_detection[0m
+[1.138s] [35m[1mConsolidate compiler generated dependencies of target calibration_calculation[0m
+[1.139s] [35m[1mConsolidate compiler generated dependencies of target obstacle_avoidance[0m
+[1.148s] [ 25%] Built target hand_eye_calibration
+[1.148s] [ 25%] Built target tcp_calibration
+[1.151s] [ 31%] [32mBuilding CXX object CMakeFiles/obstacle_avoidance.dir/src/obstacle_avoidance.cpp.o[0m
+[1.154s] [ 56%] Built target grasp_touch_control
+[1.154s] [ 56%] Built target robot_motion_test
+[1.154s] [ 68%] Built target robot_motion
+[1.156s] [ 81%] Built target calibration_calculation
+[1.157s] [ 93%] Built target chessboard_detection
+[4.527s] [100%] [32m[1mLinking CXX executable obstacle_avoidance[0m
+[4.792s] [100%] Built target obstacle_avoidance
+[4.802s] Invoked command in '/home/user/ws_siasun/build/aivt' returned '0': CMAKE_PREFIX_PATH=/home/user/ws_siasun/install/duco_ros_driver:/home/user/ws_siasun/install/duco_arms:/home/user/ws_siasun/install/duco_support:/home/user/ws_siasun/install/duco_msg:/home/user/ws_siasun/install/aivt_interfaces:/home/user/ws_siasun/install/robot_control:/home/user/ws_siasun/install/aivt:/home/user/ws_siasun/install/duco_gcr3_618_moveit_config:/opt/ros/humble /usr/bin/cmake --build /home/user/ws_siasun/build/aivt -- -j16 -l16
+[4.804s] Invoking command in '/home/user/ws_siasun/build/aivt': CMAKE_PREFIX_PATH=/home/user/ws_siasun/install/duco_ros_driver:/home/user/ws_siasun/install/duco_arms:/home/user/ws_siasun/install/duco_support:/home/user/ws_siasun/install/duco_msg:/home/user/ws_siasun/install/aivt_interfaces:/home/user/ws_siasun/install/robot_control:/home/user/ws_siasun/install/aivt:/home/user/ws_siasun/install/duco_gcr3_618_moveit_config:/opt/ros/humble /usr/bin/cmake --install /home/user/ws_siasun/build/aivt
+[4.810s] -- Install configuration: ""
+[4.810s] -- Installing: /home/user/ws_siasun/install/aivt/lib/aivt/robot_motion_test
+[4.815s] -- Set runtime path of "/home/user/ws_siasun/install/aivt/lib/aivt/robot_motion_test" to ""
+[4.815s] -- Installing: /home/user/ws_siasun/install/aivt/lib/aivt/hand_eye_calibration
+[4.820s] -- Set runtime path of "/home/user/ws_siasun/install/aivt/lib/aivt/hand_eye_calibration" to ""
+[4.820s] -- Installing: /home/user/ws_siasun/install/aivt/lib/aivt/chessboard_detection
+[4.823s] -- Set runtime path of "/home/user/ws_siasun/install/aivt/lib/aivt/chessboard_detection" to ""
+[4.823s] -- Installing: /home/user/ws_siasun/install/aivt/lib/aivt/grasp_touch_control
+[4.825s] -- Set runtime path of "/home/user/ws_siasun/install/aivt/lib/aivt/grasp_touch_control" to ""
+[4.825s] -- Installing: /home/user/ws_siasun/install/aivt/lib/aivt/tcp_calibration
+[4.828s] -- Set runtime path of "/home/user/ws_siasun/install/aivt/lib/aivt/tcp_calibration" to ""
+[4.828s] -- Installing: /home/user/ws_siasun/install/aivt/lib/aivt/robot_motion
+[4.834s] -- Set runtime path of "/home/user/ws_siasun/install/aivt/lib/aivt/robot_motion" to ""
+[4.834s] -- Installing: /home/user/ws_siasun/install/aivt/lib/aivt/calibration_calculation
+[4.835s] -- Set runtime path of "/home/user/ws_siasun/install/aivt/lib/aivt/calibration_calculation" to ""
+[4.835s] -- Installing: /home/user/ws_siasun/install/aivt/lib/aivt/obstacle_avoidance
+[4.835s] -- Set runtime path of "/home/user/ws_siasun/install/aivt/lib/aivt/obstacle_avoidance" to ""
+[4.835s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/launch
+[4.835s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/launch/gripper_server.launch.py
+[4.835s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/launch/hand_eye_calibration.launch.py
+[4.835s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config
+[4.835s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_6.jpg
+[4.835s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_12.jpg
+[4.836s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_5.jpg
+[4.836s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/hand_eye_transformer.yaml
+[4.836s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_13.jpg
+[4.836s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_0.jpg
+[4.836s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_14.jpg
+[4.836s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_2.jpg
+[4.836s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_4.jpg
+[4.836s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_1.jpg
+[4.836s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_7.jpg
+[4.836s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_3.jpg
+[4.836s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_8.jpg
+[4.836s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/calibration_data.yaml
+[4.836s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_11.jpg
+[4.836s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_10.jpg
+[4.836s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_15.jpg
+[4.836s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_9.jpg
+[4.837s] -- Installing: /home/user/ws_siasun/install/aivt/share/ament_index/resource_index/package_run_dependencies/aivt
+[4.837s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/ament_index/resource_index/parent_prefix_path/aivt
+[4.837s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/environment/ament_prefix_path.sh
+[4.837s] -- Installing: /home/user/ws_siasun/install/aivt/share/aivt/environment/ament_prefix_path.dsv
+[4.837s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/environment/path.sh
+[4.838s] -- Installing: /home/user/ws_siasun/install/aivt/share/aivt/environment/path.dsv
+[4.838s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/local_setup.bash
+[4.838s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/local_setup.sh
+[4.838s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/local_setup.zsh
+[4.838s] -- Installing: /home/user/ws_siasun/install/aivt/share/aivt/local_setup.dsv
+[4.838s] -- Installing: /home/user/ws_siasun/install/aivt/share/aivt/package.dsv
+[4.838s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/ament_index/resource_index/packages/aivt
+[4.838s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/cmake/aivtConfig.cmake
+[4.838s] -- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/cmake/aivtConfig-version.cmake
+[4.838s] -- Installing: /home/user/ws_siasun/install/aivt/share/aivt/package.xml
+[4.839s] Invoked command in '/home/user/ws_siasun/build/aivt' returned '0': CMAKE_PREFIX_PATH=/home/user/ws_siasun/install/duco_ros_driver:/home/user/ws_siasun/install/duco_arms:/home/user/ws_siasun/install/duco_support:/home/user/ws_siasun/install/duco_msg:/home/user/ws_siasun/install/aivt_interfaces:/home/user/ws_siasun/install/robot_control:/home/user/ws_siasun/install/aivt:/home/user/ws_siasun/install/duco_gcr3_618_moveit_config:/opt/ros/humble /usr/bin/cmake --install /home/user/ws_siasun/build/aivt

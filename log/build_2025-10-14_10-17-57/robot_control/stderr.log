@@ -1,0 +1,15 @@
+[01m[K/home/user/ws_siasun/src/robot_control/src/robot_control.cpp:[m[K In function ‘[01m[Kstd::vector<signed char> vu2vi(std::vector<unsigned char, std::allocator<unsigned char> >)[m[K’:
+[01m[K/home/user/ws_siasun/src/robot_control/src/robot_control.cpp:56:18:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<unsigned char, std::allocator<unsigned char> >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wsign-compare-Wsign-compare]8;;[m[K]
+   56 |     for(int i=0;[01;35m[Ki<data.size()[m[K;i++)
+      |                 [01;35m[K~^~~~~~~~~~~~[m[K
+[01m[K/home/user/ws_siasun/src/robot_control/src/robot_control.cpp:[m[K In destructor ‘[01m[Kvirtual RobotControl::~RobotControl()[m[K’:
+[01m[K/home/user/ws_siasun/src/robot_control/src/robot_control.cpp:105:18:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<std::shared_ptr<DucoRPC::DucoCobot> >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wsign-compare-Wsign-compare]8;;[m[K]
+  105 |     for(int i=0;[01;35m[Ki<duco_robots.size()[m[K;i++)
+      |                 [01;35m[K~^~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/user/ws_siasun/src/robot_control/src/robot_control.cpp:[m[K In member function ‘[01m[Kvoid RobotControl::handleRobotCommand(duco_msg::srv::RobotControl_Request_<std::allocator<void> >::SharedPtr, duco_msg::srv::RobotControl_Response_<std::allocator<void> >::SharedPtr)[m[K’:
+[01m[K/home/user/ws_siasun/src/robot_control/src/robot_control.cpp:113:92:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+  113 | void RobotControl::handleRobotCommand([01;35m[Kconst duco_msg::srv::RobotControl_Request::SharedPtr request[m[K, duco_msg::srv::RobotControl_Response::SharedPtr response)
+      |                                       [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
+[01m[K/home/user/ws_siasun/src/robot_control/src/robot_control.cpp:113:149:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kresponse[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+  113 | void RobotControl::handleRobotCommand(const duco_msg::srv::RobotControl_Request::SharedPtr request, [01;35m[Kduco_msg::srv::RobotControl_Response::SharedPtr response[m[K)
+      |                                                                                                     [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~[m[K

@@ -1,0 +1,28 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from duco_msg/srv/PoseEstimation.srv
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Point.idl"
+#include "geometry_msgs/msg/Pose.idl"
+#include "geometry_msgs/msg/Vector3.idl"
+
+module duco_msg {
+  module srv {
+    struct PoseEstimation_Request {
+      string command;
+    };
+    struct PoseEstimation_Response {
+      string response;
+
+      sequence<geometry_msgs::msg::Pose> pose_all;
+
+      sequence<geometry_msgs::msg::Pose> pose_pick;
+
+      sequence<geometry_msgs::msg::Point> center;
+
+      sequence<geometry_msgs::msg::Vector3> size;
+
+      int32 server_id;
+    };
+  };
+};

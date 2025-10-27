@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-3e6dd98f31ba2eeed463.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "duco_msg__py",
+					"jsonFile" : "directory-duco_msg__py-610db2f87ed024c77175.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/user/ws_siasun/build/duco_msg/duco_msg__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "duco_msg",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_duco_msg_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_duco_msg_egg-7998fac0290ffeade5a4.json",
+					"name" : "ament_cmake_python_build_duco_msg_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_duco_msg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_duco_msg-ac7677d9ceefea149f41.json",
+					"name" : "ament_cmake_python_copy_duco_msg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "duco_msg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-duco_msg-07505a4bcbb8bdef68b3.json",
+					"name" : "duco_msg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "duco_msg__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-duco_msg__cpp-f39fb4f3c11a28ff06c9.json",
+					"name" : "duco_msg__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "duco_msg__py::@928385fa87931eb448fd",
+					"jsonFile" : "target-duco_msg__py-b4d675c6b781ec5ea038.json",
+					"name" : "duco_msg__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "duco_msg__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-duco_msg__rosidl_generator_c-6276ab38b007f958649b.json",
+					"name" : "duco_msg__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "duco_msg__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-duco_msg__rosidl_generator_py-42f8d2e889bcdd663c3e.json",
+					"name" : "duco_msg__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "duco_msg__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-duco_msg__rosidl_typesupport_c-7100bd3e9b10dcc95412.json",
+					"name" : "duco_msg__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "duco_msg__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-duco_msg__rosidl_typesupport_c__pyext-645eb617c7e6cca76191.json",
+					"name" : "duco_msg__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "duco_msg__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-duco_msg__rosidl_typesupport_cpp-57f706e3b9e53b4e950c.json",
+					"name" : "duco_msg__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "duco_msg__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-duco_msg__rosidl_typesupport_fastrtps_c-4285b65b732cfa1aa209.json",
+					"name" : "duco_msg__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "duco_msg__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-duco_msg__rosidl_typesupport_fastrtps_c__pyext-0876dc5d53219c949d4c.json",
+					"name" : "duco_msg__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "duco_msg__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-duco_msg__rosidl_typesupport_fastrtps_cpp-2b6029b6ce9a9d5e2924.json",
+					"name" : "duco_msg__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "duco_msg__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-duco_msg__rosidl_typesupport_introspection_c-03cc02d8c43294b4b72b.json",
+					"name" : "duco_msg__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "duco_msg__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-duco_msg__rosidl_typesupport_introspection_c__pyext-14bf3308f94393af92e6.json",
+					"name" : "duco_msg__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "duco_msg__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-duco_msg__rosidl_typesupport_introspection_cpp-50b08fe0469ae9d76faf.json",
+					"name" : "duco_msg__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "duco_msg_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-duco_msg_uninstall-46c4b7ae0a48d5aeb900.json",
+					"name" : "duco_msg_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-ce3e54a330d0793757dc.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/user/ws_siasun/build/duco_msg",
+		"source" : "/home/user/ws_siasun/src/duco_msg"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

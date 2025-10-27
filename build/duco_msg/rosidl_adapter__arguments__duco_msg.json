@@ -1,0 +1,16 @@
+{
+  "package_name": "duco_msg",
+  "non_idl_tuples": [
+    "/home/user/ws_siasun/src/duco_msg:msg/DucoRobotState.msg",
+    "/home/user/ws_siasun/src/duco_msg:msg/VirtualServoPointCloud.msg",
+    "/home/user/ws_siasun/src/duco_msg:msg/VirtualServoPose.msg",
+    "/home/user/ws_siasun/src/duco_msg:srv/DucoRobotStates.srv",
+    "/home/user/ws_siasun/src/duco_msg:srv/PoseEstimation.srv",
+    "/home/user/ws_siasun/src/duco_msg:srv/RobotControl.srv",
+    "/home/user/ws_siasun/src/duco_msg:srv/RobotMove.srv",
+    "/home/user/ws_siasun/src/duco_msg:srv/RobotIoControl.srv",
+    "/home/user/ws_siasun/src/duco_msg:srv/RobotTaskStateRquest.srv",
+    "/home/user/ws_siasun/src/duco_msg:srv/Speech.srv",
+    "/home/user/ws_siasun/src/duco_msg:srv/Grippers.srv"
+  ]
+}

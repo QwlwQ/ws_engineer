@@ -1,0 +1,4 @@
+Invoking command in '/home/user/ws_siasun/build/aivt_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/user/ws_siasun/build/aivt_interfaces -- -j16 -l16
+Invoked command in '/home/user/ws_siasun/build/aivt_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/user/ws_siasun/build/aivt_interfaces -- -j16 -l16
+Invoking command in '/home/user/ws_siasun/build/aivt_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/user/ws_siasun/build/aivt_interfaces
+Invoked command in '/home/user/ws_siasun/build/aivt_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/user/ws_siasun/build/aivt_interfaces

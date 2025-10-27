@@ -1,0 +1,9 @@
+[35m[1mConsolidate compiler generated dependencies of target obstacle_avoidance[0m
+[ 12%] Built target tcp_calibration
+[ 25%] Built target calibration_calculation
+[ 37%] Built target grasp_touch_control
+[ 50%] Built target robot_motion_test
+[ 62%] Built target robot_motion
+[ 75%] Built target chessboard_detection
+[ 87%] Built target hand_eye_calibration
+[ 93%] [32mBuilding CXX object CMakeFiles/obstacle_avoidance.dir/src/obstacle_avoidance.cpp.o[0m

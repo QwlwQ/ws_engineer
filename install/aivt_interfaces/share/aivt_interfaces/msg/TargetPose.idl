@@ -1,0 +1,13 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from aivt_interfaces/msg/TargetPose.msg
+// generated code does not contain a copyright notice
+
+
+module aivt_interfaces {
+  module msg {
+    typedef float float__6[6];
+    struct TargetPose {
+      float__6 target_pose;
+    };
+  };
+};

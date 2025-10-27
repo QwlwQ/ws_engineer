@@ -1,0 +1,54 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from duco_msg/msg/DucoRobotState.msg
+// generated code does not contain a copyright notice
+
+
+module duco_msg {
+  module msg {
+    typedef double double__7[7];
+    typedef boolean boolean__7[7];
+    struct DucoRobotState {
+      double__7 joint_expect_position;
+
+      double__7 joint_expect_velocity;
+
+      double__7 joint_expect_accelera;
+
+      double__7 joint_actual_position;
+
+      double__7 joint_actual_velocity;
+
+      double__7 joint_actual_accelera;
+
+      double__7 joint_actual_current;
+
+      double__7 joint_temperature;
+
+      double__7 driver_temperature;
+
+      double__7 cart_expect_position;
+
+      double__7 cart_expect_velocity;
+
+      double__7 cart_expect_accelera;
+
+      double__7 cart_actual_position;
+
+      double__7 cart_actual_velocity;
+
+      double__7 cart_actual_accelera;
+
+      boolean__7 slave_ready;
+
+      boolean collision;
+
+      int8 collision_axis;
+
+      boolean emc_stop_signal;
+
+      int8 robot_state;
+
+      int32 robot_error;
+    };
+  };
+};

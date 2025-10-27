@@ -1,0 +1,4 @@
+string command
+int8 arm_num
+bool block
+

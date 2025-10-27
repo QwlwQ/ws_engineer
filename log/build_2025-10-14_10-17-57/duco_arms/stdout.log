@@ -1,0 +1,55 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/user/ws_siasun/build/duco_arms
+-- Install configuration: ""
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/ament_index/resource_index/package_run_dependencies/duco_arms
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/ament_index/resource_index/parent_prefix_path/duco_arms
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/environment/ament_prefix_path.sh
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/environment/ament_prefix_path.dsv
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/environment/path.sh
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/environment/path.dsv
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/local_setup.bash
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/local_setup.sh
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/local_setup.zsh
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/local_setup.dsv
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/package.dsv
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/ament_index/resource_index/packages/duco_arms
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/cmake/duco_armsConfig.cmake
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/cmake/duco_armsConfig-version.cmake
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/package.xml
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/launch
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/launch/rsp.launch.py
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/launch/move_group.launch.py
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/launch/static_virtual_joint_tfs.launch.py
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/launch/moveit_rviz.launch.py
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/launch/demo.launch.py
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/launch/warehouse_db.launch.py
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/launch/setup_assistant.launch.py
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/launch/spawn_controllers.launch.py
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/config
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/config/pilz_cartesian_limits.yaml
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/config/moveit.rviz
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/config/ros2_controllers.yaml
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/config/dual_arms.ros2_control.xacro
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/config/initial_positions.yaml
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/config/sensors_3d.yaml
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/config/joint_limits.yaml
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/config/kinematics.yaml
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/config/dual_arms.urdf.xacro
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/config/dual_arms.srdf
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/config/moveit_controllers.yaml
+-- Installing: /home/user/ws_siasun/install/duco_arms/share/duco_arms/.setup_assistant

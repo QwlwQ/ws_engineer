@@ -1,0 +1,6 @@
+string command
+string name
+
+float32 pose
+float32 force
+

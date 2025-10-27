@@ -1,0 +1,15 @@
+[ 12%] Built target grasp_touch_control
+[ 25%] Built target calibration_calculation
+[ 37%] Built target chessboard_detection
+[ 50%] Built target hand_eye_calibration
+[ 62%] Built target robot_motion_test
+[ 75%] Built target tcp_calibration
+[ 87%] Built target robot_motion
+[ 93%] [32mBuilding CXX object CMakeFiles/obstacle_avoidance.dir/src/obstacle_avoidance.cpp.o[0m
+[01m[K/home/user/ws_siasun/src/aivt/src/obstacle_avoidance.cpp:8:10:[m[K [01;31m[Kfatal error: [m[Kvisualization_msgs/msg/marker.hpp: 没有那个文件或目录
+    8 | #include [01;31m[K"visualization_msgs/msg/marker.hpp"[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+gmake[2]: *** [CMakeFiles/obstacle_avoidance.dir/build.make:76：CMakeFiles/obstacle_avoidance.dir/src/obstacle_avoidance.cpp.o] 错误 1
+gmake[1]: *** [CMakeFiles/Makefile2:333：CMakeFiles/obstacle_avoidance.dir/all] 错误 2
+gmake: *** [Makefile:146：all] 错误 2

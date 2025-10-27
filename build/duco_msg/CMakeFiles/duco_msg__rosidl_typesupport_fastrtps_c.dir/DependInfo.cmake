@@ -1,0 +1,56 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__type_support_c.cpp" "CMakeFiles/duco_msg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__type_support_c.cpp.o" "gcc" "CMakeFiles/duco_msg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__type_support_c.cpp.o.d"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/virtual_servo_point_cloud__type_support_c.cpp" "CMakeFiles/duco_msg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/virtual_servo_point_cloud__type_support_c.cpp.o" "gcc" "CMakeFiles/duco_msg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/virtual_servo_point_cloud__type_support_c.cpp.o.d"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/virtual_servo_pose__type_support_c.cpp" "CMakeFiles/duco_msg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/virtual_servo_pose__type_support_c.cpp.o" "gcc" "CMakeFiles/duco_msg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/virtual_servo_pose__type_support_c.cpp.o.d"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/duco_robot_states__type_support_c.cpp" "CMakeFiles/duco_msg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/duco_robot_states__type_support_c.cpp.o" "gcc" "CMakeFiles/duco_msg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/duco_robot_states__type_support_c.cpp.o.d"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/grippers__type_support_c.cpp" "CMakeFiles/duco_msg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/grippers__type_support_c.cpp.o" "gcc" "CMakeFiles/duco_msg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/grippers__type_support_c.cpp.o.d"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/pose_estimation__type_support_c.cpp" "CMakeFiles/duco_msg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/pose_estimation__type_support_c.cpp.o" "gcc" "CMakeFiles/duco_msg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/pose_estimation__type_support_c.cpp.o.d"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/robot_control__type_support_c.cpp" "CMakeFiles/duco_msg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/robot_control__type_support_c.cpp.o" "gcc" "CMakeFiles/duco_msg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/robot_control__type_support_c.cpp.o.d"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/robot_io_control__type_support_c.cpp" "CMakeFiles/duco_msg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/robot_io_control__type_support_c.cpp.o" "gcc" "CMakeFiles/duco_msg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/robot_io_control__type_support_c.cpp.o.d"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/robot_move__type_support_c.cpp" "CMakeFiles/duco_msg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/robot_move__type_support_c.cpp.o" "gcc" "CMakeFiles/duco_msg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/robot_move__type_support_c.cpp.o.d"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/robot_task_state_rquest__type_support_c.cpp" "CMakeFiles/duco_msg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/robot_task_state_rquest__type_support_c.cpp.o" "gcc" "CMakeFiles/duco_msg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/robot_task_state_rquest__type_support_c.cpp.o.d"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/speech__type_support_c.cpp" "CMakeFiles/duco_msg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/speech__type_support_c.cpp.o" "gcc" "CMakeFiles/duco_msg__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/speech__type_support_c.cpp.o.d"
+  )
+
+# Pairs of files generated by the same build rule.
+set(CMAKE_MULTIPLE_OUTPUT_PAIRS
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__type_support_c.cpp" "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__rosidl_typesupport_fastrtps_c.h"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/virtual_servo_point_cloud__rosidl_typesupport_fastrtps_c.h" "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__rosidl_typesupport_fastrtps_c.h"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/virtual_servo_point_cloud__type_support_c.cpp" "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__rosidl_typesupport_fastrtps_c.h"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/virtual_servo_pose__rosidl_typesupport_fastrtps_c.h" "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__rosidl_typesupport_fastrtps_c.h"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/virtual_servo_pose__type_support_c.cpp" "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__rosidl_typesupport_fastrtps_c.h"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/duco_robot_states__rosidl_typesupport_fastrtps_c.h" "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__rosidl_typesupport_fastrtps_c.h"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/duco_robot_states__type_support_c.cpp" "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__rosidl_typesupport_fastrtps_c.h"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/grippers__rosidl_typesupport_fastrtps_c.h" "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__rosidl_typesupport_fastrtps_c.h"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/grippers__type_support_c.cpp" "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__rosidl_typesupport_fastrtps_c.h"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/pose_estimation__rosidl_typesupport_fastrtps_c.h" "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__rosidl_typesupport_fastrtps_c.h"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/pose_estimation__type_support_c.cpp" "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__rosidl_typesupport_fastrtps_c.h"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/robot_control__rosidl_typesupport_fastrtps_c.h" "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__rosidl_typesupport_fastrtps_c.h"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/robot_control__type_support_c.cpp" "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__rosidl_typesupport_fastrtps_c.h"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/robot_io_control__rosidl_typesupport_fastrtps_c.h" "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__rosidl_typesupport_fastrtps_c.h"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/robot_io_control__type_support_c.cpp" "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__rosidl_typesupport_fastrtps_c.h"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/robot_move__rosidl_typesupport_fastrtps_c.h" "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__rosidl_typesupport_fastrtps_c.h"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/robot_move__type_support_c.cpp" "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__rosidl_typesupport_fastrtps_c.h"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/robot_task_state_rquest__rosidl_typesupport_fastrtps_c.h" "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__rosidl_typesupport_fastrtps_c.h"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/robot_task_state_rquest__type_support_c.cpp" "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__rosidl_typesupport_fastrtps_c.h"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/speech__rosidl_typesupport_fastrtps_c.h" "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__rosidl_typesupport_fastrtps_c.h"
+  "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/srv/detail/speech__type_support_c.cpp" "/home/user/ws_siasun/build/duco_msg/rosidl_typesupport_fastrtps_c/duco_msg/msg/detail/duco_robot_state__rosidl_typesupport_fastrtps_c.h"
+  )
+
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/home/user/ws_siasun/build/duco_msg/CMakeFiles/duco_msg__rosidl_generator_c.dir/DependInfo.cmake"
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

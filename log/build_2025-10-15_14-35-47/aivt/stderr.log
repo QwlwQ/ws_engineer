@@ -1,0 +1,18 @@
+[0m** WARNING ** io features related to pcap will be disabled[0m
+[0mWARNING: Target "obstacle_avoidance" requests linking to directory "/usr/include/pcl-1.12".  Targets may link only to libraries.  CMake is dropping the item.[0m
+[0mWARNING: Target "obstacle_avoidance" requests linking to directory "/usr/include/eigen3".  Targets may link only to libraries.  CMake is dropping the item.[0m
+[0mWARNING: Target "obstacle_avoidance" requests linking to directory "/usr/include".  Targets may link only to libraries.  CMake is dropping the item.[0m
+[0mWARNING: Target "obstacle_avoidance" requests linking to directory "/usr/include/ni".  Targets may link only to libraries.  CMake is dropping the item.[0m
+[0mWARNING: Target "obstacle_avoidance" requests linking to directory "/usr/include/openni2".  Targets may link only to libraries.  CMake is dropping the item.[0m
+[01m[K/home/user/ws_siasun/src/aivt/src/obstacle_avoidance.cpp:5:10:[m[K [01;31m[Kfatal error: [m[Kpcl_conversions/pcl_conversions.h: 没有那个文件或目录
+    5 | #include [01;31m[K"pcl_conversions/pcl_conversions.h"[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+gmake[2]: *** [CMakeFiles/obstacle_avoidance.dir/build.make:76：CMakeFiles/obstacle_avoidance.dir/src/obstacle_avoidance.cpp.o] 错误 1
+gmake[1]: *** [CMakeFiles/Makefile2:333：CMakeFiles/obstacle_avoidance.dir/all] 错误 2
+gmake[1]: *** 正在等待未完成的任务....
+[01m[K/home/user/ws_siasun/src/aivt/src/chessboard_detection.cpp:[m[K In member function ‘[01m[Kvoid ChessboardDetection::imageCallback(sensor_msgs::msg::Image_<std::allocator<void> >::SharedPtr)[m[K’:
+[01m[K/home/user/ws_siasun/src/aivt/src/chessboard_detection.cpp:139:20:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Krms[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-variable-Wunused-variable]8;;[m[K]
+  139 |             double [01;35m[Krms[m[K = computeReprojectionRMS(
+      |                    [01;35m[K^~~[m[K
+gmake: *** [Makefile:146：all] 错误 2

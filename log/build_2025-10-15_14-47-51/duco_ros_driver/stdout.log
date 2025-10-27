@@ -1,0 +1,37 @@
+[ 23%] Built target DucoRobotControl
+[ 53%] Built target DucoRobotStatus
+[ 84%] Built target DucoDriver
+[100%] Built target DucoTrajectoryAction
+-- Install configuration: ""
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/include/duco_ros_driver/
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/include/duco_ros_driver//joint_relay_handler.h
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/include/duco_ros_driver//DucoCobot.h
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/include/duco_ros_driver//DucoDriver.h
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/include/duco_ros_driver//RobotNode.h
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/include/duco_ros_driver//utils_.h
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/include/duco_ros_driver//param_utils.h
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/include/duco_ros_driver//utils.h
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/include/duco_ros_driver//DucoRobotControl.h
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/include/duco_ros_driver//DucoRobotStatus.h
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/include/duco_ros_driver//DucoTrajectoryAction.h
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/lib/duco_ros_driver/DucoDriver
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/lib/duco_ros_driver/DucoRobotStatus
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/lib/duco_ros_driver/DucoTrajectoryAction
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/lib/duco_ros_driver/DucoRobotControl
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/share/ament_index/resource_index/package_run_dependencies/duco_ros_driver
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/share/ament_index/resource_index/parent_prefix_path/duco_ros_driver
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/share/duco_ros_driver/environment/ament_prefix_path.sh
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/share/duco_ros_driver/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/share/duco_ros_driver/environment/path.sh
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/share/duco_ros_driver/environment/path.dsv
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/share/duco_ros_driver/local_setup.bash
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/share/duco_ros_driver/local_setup.sh
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/share/duco_ros_driver/local_setup.zsh
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/share/duco_ros_driver/local_setup.dsv
+-- Installing: /home/user/ws_siasun/install/duco_ros_driver/share/duco_ros_driver/package.dsv
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/share/ament_index/resource_index/packages/duco_ros_driver
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/share/duco_ros_driver/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/share/duco_ros_driver/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/share/duco_ros_driver/cmake/duco_ros_driverConfig.cmake
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/share/duco_ros_driver/cmake/duco_ros_driverConfig-version.cmake
+-- Up-to-date: /home/user/ws_siasun/install/duco_ros_driver/share/duco_ros_driver/package.xml

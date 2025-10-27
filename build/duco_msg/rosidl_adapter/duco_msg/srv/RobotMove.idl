@@ -1,0 +1,35 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from duco_msg/srv/RobotMove.srv
+// generated code does not contain a copyright notice
+
+
+module duco_msg {
+  module srv {
+    struct RobotMove_Request {
+      string command;
+
+      int8 arm_num;
+
+      @verbatim (language="comment", text=
+        "move")
+      sequence<float> p;
+
+      sequence<float> q;
+
+      float v;
+
+      float a;
+
+      float r;
+
+      string tool;
+
+      string wobj;
+
+      boolean block;
+    };
+    struct RobotMove_Response {
+      string response;
+    };
+  };
+};

@@ -1,0 +1,13 @@
+string command
+int8 arm_num
+
+#move
+float32[] p
+float32[] q
+float32 v
+float32 a
+float32 r
+string tool
+string wobj
+
+bool block

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "duco_msg__py",
+		"source" : "/home/user/ws_siasun/build/duco_msg/duco_msg__py"
+	}
+}

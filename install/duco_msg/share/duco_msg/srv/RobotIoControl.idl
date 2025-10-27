@@ -1,0 +1,33 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from duco_msg/srv/RobotIoControl.srv
+// generated code does not contain a copyright notice
+
+
+module duco_msg {
+  module srv {
+    struct RobotIoControl_Request {
+      string command;
+
+      int8 arm_num;
+
+      @verbatim (language="comment", text=
+        "IO 类型" "\n"
+        " 0:gen io  1:tool io")
+      int8 type;
+
+      @verbatim (language="comment", text=
+        "IO 端口" "\n"
+        "GEN IO 0--15  TOOL IO 0--1")
+      int8 port;
+
+      @verbatim (language="comment", text=
+        "SetIO 值")
+      boolean value;
+
+      boolean block;
+    };
+    struct RobotIoControl_Response {
+      string response;
+    };
+  };
+};

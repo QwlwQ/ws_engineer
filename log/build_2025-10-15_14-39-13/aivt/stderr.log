@@ -1,0 +1,6 @@
+[0m** WARNING ** io features related to pcap will be disabled[0m
+[0mWARNING: Target "obstacle_avoidance" requests linking to directory "/usr/include/pcl-1.12".  Targets may link only to libraries.  CMake is dropping the item.[0m
+[0mWARNING: Target "obstacle_avoidance" requests linking to directory "/usr/include/eigen3".  Targets may link only to libraries.  CMake is dropping the item.[0m
+[0mWARNING: Target "obstacle_avoidance" requests linking to directory "/usr/include".  Targets may link only to libraries.  CMake is dropping the item.[0m
+[0mWARNING: Target "obstacle_avoidance" requests linking to directory "/usr/include/ni".  Targets may link only to libraries.  CMake is dropping the item.[0m
+[0mWARNING: Target "obstacle_avoidance" requests linking to directory "/usr/include/openni2".  Targets may link only to libraries.  CMake is dropping the item.[0m

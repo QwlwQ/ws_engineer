@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from duco_msg/srv/RobotTaskStateRquest.srv
+// generated code does not contain a copyright notice
+
+
+module duco_msg {
+  module srv {
+    struct RobotTaskStateRquest_Request {
+      string id;
+
+      int8 arm_num;
+    };
+    struct RobotTaskStateRquest_Response {
+      string response;
+    };
+  };
+};

@@ -1,0 +1,17 @@
+[0.013s] Invoking command in '/home/user/ws_siasun/build/aivt': CMAKE_PREFIX_PATH=/home/user/ws_siasun/install/duco_ros_driver:/home/user/ws_siasun/install/duco_arms:/home/user/ws_siasun/install/duco_support:/home/user/ws_siasun/install/duco_msg:/home/user/ws_siasun/install/aivt_interfaces:/home/user/ws_siasun/install/robot_control:/home/user/ws_siasun/install/aivt:/home/user/ws_siasun/install/duco_gcr3_618_moveit_config:/opt/ros/humble /usr/bin/cmake --build /home/user/ws_siasun/build/aivt -- -j16 -l16
+[0.060s] [ 12%] Built target grasp_touch_control
+[0.061s] [ 25%] Built target calibration_calculation
+[0.063s] [ 37%] Built target chessboard_detection
+[0.065s] [ 50%] Built target hand_eye_calibration
+[0.065s] [ 62%] Built target robot_motion_test
+[0.066s] [ 75%] Built target tcp_calibration
+[0.068s] [ 87%] Built target robot_motion
+[0.072s] [ 93%] [32mBuilding CXX object CMakeFiles/obstacle_avoidance.dir/src/obstacle_avoidance.cpp.o[0m
+[0.908s] [01m[K/home/user/ws_siasun/src/aivt/src/obstacle_avoidance.cpp:8:10:[m[K [01;31m[Kfatal error: [m[Kvisualization_msgs/msg/marker.hpp: 没有那个文件或目录
+[0.908s]     8 | #include [01;31m[K"visualization_msgs/msg/marker.hpp"[m[K
+[0.908s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[0.908s] compilation terminated.
+[0.918s] gmake[2]: *** [CMakeFiles/obstacle_avoidance.dir/build.make:76：CMakeFiles/obstacle_avoidance.dir/src/obstacle_avoidance.cpp.o] 错误 1
+[0.918s] gmake[1]: *** [CMakeFiles/Makefile2:333：CMakeFiles/obstacle_avoidance.dir/all] 错误 2
+[0.918s] gmake: *** [Makefile:146：all] 错误 2
+[0.920s] Invoked command in '/home/user/ws_siasun/build/aivt' returned '2': CMAKE_PREFIX_PATH=/home/user/ws_siasun/install/duco_ros_driver:/home/user/ws_siasun/install/duco_arms:/home/user/ws_siasun/install/duco_support:/home/user/ws_siasun/install/duco_msg:/home/user/ws_siasun/install/aivt_interfaces:/home/user/ws_siasun/install/robot_control:/home/user/ws_siasun/install/aivt:/home/user/ws_siasun/install/duco_gcr3_618_moveit_config:/opt/ros/humble /usr/bin/cmake --build /home/user/ws_siasun/build/aivt -- -j16 -l16

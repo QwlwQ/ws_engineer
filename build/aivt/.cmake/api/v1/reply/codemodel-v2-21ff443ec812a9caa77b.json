@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-643a9290cfe65a7d9ec2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "aivt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "aivt_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aivt_uninstall-bbda0e6ed5e528efa38d.json",
+					"name" : "aivt_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calibration_calculation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calibration_calculation-2cedd7bbdf1c3efc024b.json",
+					"name" : "calibration_calculation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chessboard_detection::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chessboard_detection-10ab00fc1d396770769f.json",
+					"name" : "chessboard_detection",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "grasp_touch_control::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-grasp_touch_control-795c5395dd52db6b43d0.json",
+					"name" : "grasp_touch_control",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hand_eye_calibration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hand_eye_calibration-7aa32ae74e78a0d63f8e.json",
+					"name" : "hand_eye_calibration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "obstacle_avoidance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-obstacle_avoidance-c2a879c03fc7e872b3d6.json",
+					"name" : "obstacle_avoidance",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robot_motion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robot_motion-6f8353703903546d81fc.json",
+					"name" : "robot_motion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robot_motion_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robot_motion_test-9af07e7bc1395eb8e07c.json",
+					"name" : "robot_motion_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tcp_calibration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tcp_calibration-6a54402d30f1c2bf80a2.json",
+					"name" : "tcp_calibration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-e7f1afc0f9be06389bda.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/user/ws_siasun/build/aivt",
+		"source" : "/home/user/ws_siasun/src/aivt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

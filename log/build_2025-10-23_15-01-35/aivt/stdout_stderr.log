@@ -1,0 +1,59 @@
+[35m[1mConsolidate compiler generated dependencies of target robot_motion[0m
+[ 12%] Built target grasp_touch_control
+[ 25%] Built target tcp_calibration
+[ 31%] [32mBuilding CXX object CMakeFiles/robot_motion.dir/src/robot_motion.cpp.o[0m
+[ 43%] Built target hand_eye_calibration
+[ 56%] Built target robot_motion_test
+[ 68%] Built target calibration_calculation
+[ 81%] Built target chessboard_detection
+[ 93%] Built target obstacle_avoidance
+[100%] [32m[1mLinking CXX executable robot_motion[0m
+[100%] Built target robot_motion
+-- Install configuration: ""
+-- Up-to-date: /home/user/ws_siasun/install/aivt/lib/aivt/robot_motion_test
+-- Up-to-date: /home/user/ws_siasun/install/aivt/lib/aivt/hand_eye_calibration
+-- Up-to-date: /home/user/ws_siasun/install/aivt/lib/aivt/chessboard_detection
+-- Up-to-date: /home/user/ws_siasun/install/aivt/lib/aivt/grasp_touch_control
+-- Up-to-date: /home/user/ws_siasun/install/aivt/lib/aivt/tcp_calibration
+-- Installing: /home/user/ws_siasun/install/aivt/lib/aivt/robot_motion
+-- Set runtime path of "/home/user/ws_siasun/install/aivt/lib/aivt/robot_motion" to ""
+-- Up-to-date: /home/user/ws_siasun/install/aivt/lib/aivt/calibration_calculation
+-- Up-to-date: /home/user/ws_siasun/install/aivt/lib/aivt/obstacle_avoidance
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/launch
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/launch/gripper_server.launch.py
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/launch/hand_eye_calibration.launch.py
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_6.jpg
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_12.jpg
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_5.jpg
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/hand_eye_transformer.yaml
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_13.jpg
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_0.jpg
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_14.jpg
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_2.jpg
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_4.jpg
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_1.jpg
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_7.jpg
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_3.jpg
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/robot_pose.yaml
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_8.jpg
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/calibration_data.yaml
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_11.jpg
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_10.jpg
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_15.jpg
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/config/chessboard_9.jpg
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/ament_index/resource_index/package_run_dependencies/aivt
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/ament_index/resource_index/parent_prefix_path/aivt
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/environment/ament_prefix_path.sh
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/environment/path.sh
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/environment/path.dsv
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/local_setup.bash
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/local_setup.sh
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/local_setup.zsh
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/local_setup.dsv
+-- Installing: /home/user/ws_siasun/install/aivt/share/aivt/package.dsv
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/ament_index/resource_index/packages/aivt
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/cmake/aivtConfig.cmake
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/cmake/aivtConfig-version.cmake
+-- Up-to-date: /home/user/ws_siasun/install/aivt/share/aivt/package.xml

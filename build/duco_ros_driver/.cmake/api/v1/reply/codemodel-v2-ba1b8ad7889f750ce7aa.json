@@ -1,0 +1,106 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-0f5278bb5dd8bf70a65f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "duco_ros_driver",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DucoDriver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DucoDriver-2fbcdbfa0e7af649b5b6.json",
+					"name" : "DucoDriver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DucoRobotControl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DucoRobotControl-b171fd205f45af3efd35.json",
+					"name" : "DucoRobotControl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DucoRobotStatus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DucoRobotStatus-ba37678d321d249fc3d6.json",
+					"name" : "DucoRobotStatus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DucoTrajectoryAction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DucoTrajectoryAction-9cd0937b921dfa61df41.json",
+					"name" : "DucoTrajectoryAction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "duco_ros_driver_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-duco_ros_driver_uninstall-274c2d1deca847461ff6.json",
+					"name" : "duco_ros_driver_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-0f65b430e5feb56bfcba.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/user/ws_siasun/build/duco_ros_driver",
+		"source" : "/home/user/ws_siasun/src/duco_ros_driver"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

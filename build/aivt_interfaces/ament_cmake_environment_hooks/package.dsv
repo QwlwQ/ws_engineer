@@ -1,0 +1,4 @@
+source;share/aivt_interfaces/local_setup.bash
+source;share/aivt_interfaces/local_setup.dsv
+source;share/aivt_interfaces/local_setup.sh
+source;share/aivt_interfaces/local_setup.zsh

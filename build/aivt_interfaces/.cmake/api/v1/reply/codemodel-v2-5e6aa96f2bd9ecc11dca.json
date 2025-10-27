@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-810678807599fc9563d0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "aivt_interfaces__py",
+					"jsonFile" : "directory-aivt_interfaces__py-986bc048e29369c412df.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/user/ws_siasun/build/aivt_interfaces/aivt_interfaces__py",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "aivt_interfaces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "aivt_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aivt_interfaces-50ca10dbc0add201d969.json",
+					"name" : "aivt_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aivt_interfaces__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aivt_interfaces__cpp-b6568fc2b9f68e7330ad.json",
+					"name" : "aivt_interfaces__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "aivt_interfaces__py::@1aed54bc17d75981d54a",
+					"jsonFile" : "target-aivt_interfaces__py-8b3bafbc66cb122be071.json",
+					"name" : "aivt_interfaces__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aivt_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aivt_interfaces__rosidl_generator_c-bc45b3d6cb8ec9ea4a6b.json",
+					"name" : "aivt_interfaces__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aivt_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aivt_interfaces__rosidl_generator_py-d751c489bcf056b7b4af.json",
+					"name" : "aivt_interfaces__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aivt_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aivt_interfaces__rosidl_typesupport_c-a9104de5fb9fd6aa0f19.json",
+					"name" : "aivt_interfaces__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aivt_interfaces__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aivt_interfaces__rosidl_typesupport_c__pyext-dfc23a274476e8b42f96.json",
+					"name" : "aivt_interfaces__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aivt_interfaces__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aivt_interfaces__rosidl_typesupport_cpp-76c8e48b457156d82cfb.json",
+					"name" : "aivt_interfaces__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aivt_interfaces__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aivt_interfaces__rosidl_typesupport_fastrtps_c-bd842534bfd47fa57f5c.json",
+					"name" : "aivt_interfaces__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aivt_interfaces__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aivt_interfaces__rosidl_typesupport_fastrtps_c__pyext-825c585ea1058c9a8bb3.json",
+					"name" : "aivt_interfaces__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aivt_interfaces__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aivt_interfaces__rosidl_typesupport_fastrtps_cpp-a86f2bfde8ecac37111a.json",
+					"name" : "aivt_interfaces__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aivt_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aivt_interfaces__rosidl_typesupport_introspection_c-ec17ef4e6601e94c5003.json",
+					"name" : "aivt_interfaces__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aivt_interfaces__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aivt_interfaces__rosidl_typesupport_introspection_c__pyext-f5afc5564688ca697202.json",
+					"name" : "aivt_interfaces__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aivt_interfaces__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aivt_interfaces__rosidl_typesupport_introspection_cpp-b6476258a5e36675878b.json",
+					"name" : "aivt_interfaces__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aivt_interfaces_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aivt_interfaces_uninstall-996bf2b72fa70ab2f644.json",
+					"name" : "aivt_interfaces_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_aivt_interfaces_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_aivt_interfaces_egg-50f651c212682155d775.json",
+					"name" : "ament_cmake_python_build_aivt_interfaces_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_aivt_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_aivt_interfaces-17caa67f7445ce049076.json",
+					"name" : "ament_cmake_python_copy_aivt_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-61ba792ffad65c26a614.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/user/ws_siasun/build/aivt_interfaces",
+		"source" : "/home/user/ws_siasun/src/aivt_interfaces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

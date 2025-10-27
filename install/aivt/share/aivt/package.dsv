@@ -1,0 +1,8 @@
+source;share/aivt/hook/cmake_prefix_path.ps1
+source;share/aivt/hook/cmake_prefix_path.dsv
+source;share/aivt/hook/cmake_prefix_path.sh
+source;share/aivt/local_setup.bash
+source;share/aivt/local_setup.dsv
+source;share/aivt/local_setup.ps1
+source;share/aivt/local_setup.sh
+source;share/aivt/local_setup.zsh

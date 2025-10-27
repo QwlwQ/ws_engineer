@@ -1,0 +1,11 @@
+/home/user/ws_siasun/build/duco_msg/rosidl_adapter/duco_msg:msg/DucoRobotState.idl
+/home/user/ws_siasun/build/duco_msg/rosidl_adapter/duco_msg:msg/VirtualServoPointCloud.idl
+/home/user/ws_siasun/build/duco_msg/rosidl_adapter/duco_msg:msg/VirtualServoPose.idl
+/home/user/ws_siasun/build/duco_msg/rosidl_adapter/duco_msg:srv/DucoRobotStates.idl
+/home/user/ws_siasun/build/duco_msg/rosidl_adapter/duco_msg:srv/PoseEstimation.idl
+/home/user/ws_siasun/build/duco_msg/rosidl_adapter/duco_msg:srv/RobotControl.idl
+/home/user/ws_siasun/build/duco_msg/rosidl_adapter/duco_msg:srv/RobotMove.idl
+/home/user/ws_siasun/build/duco_msg/rosidl_adapter/duco_msg:srv/RobotIoControl.idl
+/home/user/ws_siasun/build/duco_msg/rosidl_adapter/duco_msg:srv/RobotTaskStateRquest.idl
+/home/user/ws_siasun/build/duco_msg/rosidl_adapter/duco_msg:srv/Speech.idl
+/home/user/ws_siasun/build/duco_msg/rosidl_adapter/duco_msg:srv/Grippers.idl

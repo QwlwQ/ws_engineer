@@ -1,0 +1,1 @@
+aivt_interfaces:cv_bridge:duco_msg:duco_ros_driver:geometry_msgs:libopencv-dev:opencv2:pcl_conversions:rclcpp:realsense2_camera:sensor_msgs:std_msgs:tf2_geometry_msgs:tf2_ros:visualization_msgs

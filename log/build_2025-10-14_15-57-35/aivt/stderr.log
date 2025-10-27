@@ -1,0 +1,4 @@
+[01m[K/home/user/ws_siasun/src/aivt/src/chessboard_detection.cpp:[m[K In member function ‘[01m[Kvoid ChessboardDetection::imageCallback(sensor_msgs::msg::Image_<std::allocator<void> >::SharedPtr)[m[K’:
+[01m[K/home/user/ws_siasun/src/aivt/src/chessboard_detection.cpp:139:20:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Krms[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-variable-Wunused-variable]8;;[m[K]
+  139 |             double [01;35m[Krms[m[K = computeReprojectionRMS(
+      |                    [01;35m[K^~~[m[K

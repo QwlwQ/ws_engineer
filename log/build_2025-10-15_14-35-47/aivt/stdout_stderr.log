@@ -1,0 +1,117 @@
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+-- Found duco_msg: 0.0.0 (/home/user/ws_siasun/install/duco_msg/share/duco_msg/cmake)
+-- Found aivt_interfaces: 0.0.0 (/home/user/ws_siasun/install/aivt_interfaces/share/aivt_interfaces/cmake)
+-- Found cv_bridge: 3.2.1 (/opt/ros/humble/share/cv_bridge/cmake)
+-- Found tf2_ros: 0.25.12 (/opt/ros/humble/share/tf2_ros/cmake)
+-- Found tf2_geometry_msgs: 0.25.12 (/opt/ros/humble/share/tf2_geometry_msgs/cmake)
+-- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+-- Found Eigen3: TRUE (found version "3.4.0") 
+-- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+-- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+-- FLANN found (include: /usr/include, lib: /usr/lib/x86_64-linux-gnu/libflann_cpp.so)
+-- Found Eigen3: /usr/include/eigen3 (found version "3.4.0") 
+-- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+-- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+[0m** WARNING ** io features related to pcap will be disabled[0m
+-- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+-- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+-- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+-- Found Qhull version 8.0.2
+-- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+-- looking for PCL_COMMON
+-- looking for PCL_KDTREE
+-- looking for PCL_OCTREE
+-- looking for PCL_SEARCH
+-- looking for PCL_SAMPLE_CONSENSUS
+-- looking for PCL_FILTERS
+-- looking for PCL_2D
+-- looking for PCL_GEOMETRY
+-- looking for PCL_IO
+-- looking for PCL_FEATURES
+-- looking for PCL_ML
+-- looking for PCL_SEGMENTATION
+-- looking for PCL_VISUALIZATION
+-- looking for PCL_SURFACE
+-- looking for PCL_REGISTRATION
+-- looking for PCL_KEYPOINTS
+-- looking for PCL_TRACKING
+-- looking for PCL_RECOGNITION
+-- looking for PCL_STEREO
+-- looking for PCL_APPS
+-- looking for PCL_IN_HAND_SCANNER
+-- looking for PCL_MODELER
+-- looking for PCL_POINT_CLOUD_EDITOR
+-- looking for PCL_OUTOFCORE
+-- looking for PCL_PEOPLE
+-- Found pcl_conversions: 2.4.5 (/opt/ros/humble/share/pcl_conversions/cmake)
+-- Found duco_ros_driver: 0.0.0 (/home/user/ws_siasun/install/duco_ros_driver/share/duco_ros_driver/cmake)
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: 
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+[0mWARNING: Target "obstacle_avoidance" requests linking to directory "/usr/include/pcl-1.12".  Targets may link only to libraries.  CMake is dropping the item.[0m
+[0mWARNING: Target "obstacle_avoidance" requests linking to directory "/usr/include/eigen3".  Targets may link only to libraries.  CMake is dropping the item.[0m
+[0mWARNING: Target "obstacle_avoidance" requests linking to directory "/usr/include".  Targets may link only to libraries.  CMake is dropping the item.[0m
+[0mWARNING: Target "obstacle_avoidance" requests linking to directory "/usr/include/ni".  Targets may link only to libraries.  CMake is dropping the item.[0m
+[0mWARNING: Target "obstacle_avoidance" requests linking to directory "/usr/include/openni2".  Targets may link only to libraries.  CMake is dropping the item.[0m
+-- Generating done
+-- Build files have been written to: /home/user/ws_siasun/build/aivt
+[35m[1mConsolidate compiler generated dependencies of target tcp_calibration[0m
+[35m[1mConsolidate compiler generated dependencies of target hand_eye_calibration[0m
+[35m[1mConsolidate compiler generated dependencies of target chessboard_detection[0m
+[35m[1mConsolidate compiler generated dependencies of target robot_motion_test[0m
+[35m[1mConsolidate compiler generated dependencies of target grasp_touch_control[0m
+[35m[1mConsolidate compiler generated dependencies of target robot_motion[0m
+[35m[1mConsolidate compiler generated dependencies of target obstacle_avoidance[0m
+[35m[1mConsolidate compiler generated dependencies of target calibration_calculation[0m
+[  6%] [32mBuilding CXX object CMakeFiles/obstacle_avoidance.dir/src/obstacle_avoidance.cpp.o[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/tcp_calibration.dir/src/tcp_calibration.cpp.o[0m
+[ 18%] [32mBuilding CXX object CMakeFiles/grasp_touch_control.dir/src/grasp_touch_control.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/chessboard_detection.dir/src/chessboard_detection.cpp.o[0m
+[ 31%] [32mBuilding CXX object CMakeFiles/robot_motion_test.dir/src/robot_motion_test.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/hand_eye_calibration.dir/src/hand_eye_calibration.cpp.o[0m
+[ 43%] [32mBuilding CXX object CMakeFiles/robot_motion.dir/src/robot_motion.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/calibration_calculation.dir/src/calibration_calculation.cpp.o[0m
+[01m[K/home/user/ws_siasun/src/aivt/src/obstacle_avoidance.cpp:5:10:[m[K [01;31m[Kfatal error: [m[Kpcl_conversions/pcl_conversions.h: 没有那个文件或目录
+    5 | #include [01;31m[K"pcl_conversions/pcl_conversions.h"[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+gmake[2]: *** [CMakeFiles/obstacle_avoidance.dir/build.make:76：CMakeFiles/obstacle_avoidance.dir/src/obstacle_avoidance.cpp.o] 错误 1
+gmake[1]: *** [CMakeFiles/Makefile2:333：CMakeFiles/obstacle_avoidance.dir/all] 错误 2
+gmake[1]: *** 正在等待未完成的任务....
+[01m[K/home/user/ws_siasun/src/aivt/src/chessboard_detection.cpp:[m[K In member function ‘[01m[Kvoid ChessboardDetection::imageCallback(sensor_msgs::msg::Image_<std::allocator<void> >::SharedPtr)[m[K’:
+[01m[K/home/user/ws_siasun/src/aivt/src/chessboard_detection.cpp:139:20:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Krms[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-variable-Wunused-variable]8;;[m[K]
+  139 |             double [01;35m[Krms[m[K = computeReprojectionRMS(
+      |                    [01;35m[K^~~[m[K
+[ 56%] [32m[1mLinking CXX executable calibration_calculation[0m
+[ 56%] Built target calibration_calculation
+[ 62%] [32m[1mLinking CXX executable grasp_touch_control[0m
+[ 62%] Built target grasp_touch_control
+[ 68%] [32m[1mLinking CXX executable robot_motion_test[0m
+[ 68%] Built target robot_motion_test
+[ 75%] [32m[1mLinking CXX executable tcp_calibration[0m
+[ 75%] Built target tcp_calibration
+[ 81%] [32m[1mLinking CXX executable chessboard_detection[0m
+[ 81%] Built target chessboard_detection
+[ 87%] [32m[1mLinking CXX executable hand_eye_calibration[0m
+[ 87%] Built target hand_eye_calibration
+[ 93%] [32m[1mLinking CXX executable robot_motion[0m
+[ 93%] Built target robot_motion
+gmake: *** [Makefile:146：all] 错误 2

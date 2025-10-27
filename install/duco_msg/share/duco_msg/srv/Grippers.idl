@@ -1,0 +1,21 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from duco_msg/srv/Grippers.srv
+// generated code does not contain a copyright notice
+
+
+module duco_msg {
+  module srv {
+    struct Grippers_Request {
+      string command;
+
+      string name;
+
+      float pose;
+
+      float force;
+    };
+    struct Grippers_Response {
+      string response;
+    };
+  };
+};

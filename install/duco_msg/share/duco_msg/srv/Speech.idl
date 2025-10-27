@@ -1,0 +1,15 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from duco_msg/srv/Speech.srv
+// generated code does not contain a copyright notice
+
+
+module duco_msg {
+  module srv {
+    struct Speech_Request {
+      string command;
+    };
+    struct Speech_Response {
+      string response;
+    };
+  };
+};

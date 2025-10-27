@@ -1,0 +1,6 @@
+{
+  "package_name": "aivt_interfaces",
+  "non_idl_tuples": [
+    "/home/user/ws_siasun/src/aivt_interfaces:msg/TargetPose.msg"
+  ]
+}

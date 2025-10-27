@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/duco_msg__rosidl_typesupport_c.dir/rosidl_typesupport_c/duco_msg/msg/duco_robot_state__type_support.cpp.o"
+  "CMakeFiles/duco_msg__rosidl_typesupport_c.dir/rosidl_typesupport_c/duco_msg/msg/duco_robot_state__type_support.cpp.o.d"
+  "CMakeFiles/duco_msg__rosidl_typesupport_c.dir/rosidl_typesupport_c/duco_msg/msg/virtual_servo_point_cloud__type_support.cpp.o"
+  "CMakeFiles/duco_msg__rosidl_typesupport_c.dir/rosidl_typesupport_c/duco_msg/msg/virtual_servo_point_cloud__type_support.cpp.o.d"
+  "CMakeFiles/duco_msg__rosidl_typesupport_c.dir/rosidl_typesupport_c/duco_msg/msg/virtual_servo_pose__type_support.cpp.o"
+  "CMakeFiles/duco_msg__rosidl_typesupport_c.dir/rosidl_typesupport_c/duco_msg/msg/virtual_servo_pose__type_support.cpp.o.d"
+  "CMakeFiles/duco_msg__rosidl_typesupport_c.dir/rosidl_typesupport_c/duco_msg/srv/duco_robot_states__type_support.cpp.o"
+  "CMakeFiles/duco_msg__rosidl_typesupport_c.dir/rosidl_typesupport_c/duco_msg/srv/duco_robot_states__type_support.cpp.o.d"
+  "CMakeFiles/duco_msg__rosidl_typesupport_c.dir/rosidl_typesupport_c/duco_msg/srv/grippers__type_support.cpp.o"
+  "CMakeFiles/duco_msg__rosidl_typesupport_c.dir/rosidl_typesupport_c/duco_msg/srv/grippers__type_support.cpp.o.d"
+  "CMakeFiles/duco_msg__rosidl_typesupport_c.dir/rosidl_typesupport_c/duco_msg/srv/pose_estimation__type_support.cpp.o"
+  "CMakeFiles/duco_msg__rosidl_typesupport_c.dir/rosidl_typesupport_c/duco_msg/srv/pose_estimation__type_support.cpp.o.d"
+  "CMakeFiles/duco_msg__rosidl_typesupport_c.dir/rosidl_typesupport_c/duco_msg/srv/robot_control__type_support.cpp.o"
+  "CMakeFiles/duco_msg__rosidl_typesupport_c.dir/rosidl_typesupport_c/duco_msg/srv/robot_control__type_support.cpp.o.d"
+  "CMakeFiles/duco_msg__rosidl_typesupport_c.dir/rosidl_typesupport_c/duco_msg/srv/robot_io_control__type_support.cpp.o"
+  "CMakeFiles/duco_msg__rosidl_typesupport_c.dir/rosidl_typesupport_c/duco_msg/srv/robot_io_control__type_support.cpp.o.d"
+  "CMakeFiles/duco_msg__rosidl_typesupport_c.dir/rosidl_typesupport_c/duco_msg/srv/robot_move__type_support.cpp.o"
+  "CMakeFiles/duco_msg__rosidl_typesupport_c.dir/rosidl_typesupport_c/duco_msg/srv/robot_move__type_support.cpp.o.d"
+  "CMakeFiles/duco_msg__rosidl_typesupport_c.dir/rosidl_typesupport_c/duco_msg/srv/robot_task_state_rquest__type_support.cpp.o"
+  "CMakeFiles/duco_msg__rosidl_typesupport_c.dir/rosidl_typesupport_c/duco_msg/srv/robot_task_state_rquest__type_support.cpp.o.d"
+  "CMakeFiles/duco_msg__rosidl_typesupport_c.dir/rosidl_typesupport_c/duco_msg/srv/speech__type_support.cpp.o"
+  "CMakeFiles/duco_msg__rosidl_typesupport_c.dir/rosidl_typesupport_c/duco_msg/srv/speech__type_support.cpp.o.d"
+  "libduco_msg__rosidl_typesupport_c.pdb"
+  "libduco_msg__rosidl_typesupport_c.so"
+  "rosidl_typesupport_c/duco_msg/msg/duco_robot_state__type_support.cpp"
+  "rosidl_typesupport_c/duco_msg/msg/virtual_servo_point_cloud__type_support.cpp"
+  "rosidl_typesupport_c/duco_msg/msg/virtual_servo_pose__type_support.cpp"
+  "rosidl_typesupport_c/duco_msg/srv/duco_robot_states__type_support.cpp"
+  "rosidl_typesupport_c/duco_msg/srv/grippers__type_support.cpp"
+  "rosidl_typesupport_c/duco_msg/srv/pose_estimation__type_support.cpp"
+  "rosidl_typesupport_c/duco_msg/srv/robot_control__type_support.cpp"
+  "rosidl_typesupport_c/duco_msg/srv/robot_io_control__type_support.cpp"
+  "rosidl_typesupport_c/duco_msg/srv/robot_move__type_support.cpp"
+  "rosidl_typesupport_c/duco_msg/srv/robot_task_state_rquest__type_support.cpp"
+  "rosidl_typesupport_c/duco_msg/srv/speech__type_support.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/duco_msg__rosidl_typesupport_c.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

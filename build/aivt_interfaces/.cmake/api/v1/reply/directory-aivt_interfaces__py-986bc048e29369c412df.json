@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "aivt_interfaces__py",
+		"source" : "/home/user/ws_siasun/build/aivt_interfaces/aivt_interfaces__py"
+	}
+}

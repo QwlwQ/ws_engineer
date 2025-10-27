@@ -1,0 +1,7 @@
+
+string response
+geometry_msgs/Pose[] pose_all
+geometry_msgs/Pose[] pose_pick
+geometry_msgs/Point[]  center
+geometry_msgs/Vector3[] size
+int32 server_id

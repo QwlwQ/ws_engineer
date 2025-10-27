@@ -1,0 +1,8 @@
+setup.py
+aivt_interfaces/__init__.py
+aivt_interfaces.egg-info/PKG-INFO
+aivt_interfaces.egg-info/SOURCES.txt
+aivt_interfaces.egg-info/dependency_links.txt
+aivt_interfaces.egg-info/top_level.txt
+aivt_interfaces/msg/__init__.py
+aivt_interfaces/msg/_target_pose.py

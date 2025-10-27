@@ -1,0 +1,6 @@
+Invoking command in '/home/user/ws_siasun/build/duco_msg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/user/ws_siasun/src/duco_msg -DCMAKE_INSTALL_PREFIX=/home/user/ws_siasun/install/duco_msg
+Invoked command in '/home/user/ws_siasun/build/duco_msg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/user/ws_siasun/src/duco_msg -DCMAKE_INSTALL_PREFIX=/home/user/ws_siasun/install/duco_msg
+Invoking command in '/home/user/ws_siasun/build/duco_msg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/user/ws_siasun/build/duco_msg -- -j16 -l16
+Invoked command in '/home/user/ws_siasun/build/duco_msg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/user/ws_siasun/build/duco_msg -- -j16 -l16
+Invoking command in '/home/user/ws_siasun/build/duco_msg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/user/ws_siasun/build/duco_msg
+Invoked command in '/home/user/ws_siasun/build/duco_msg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/user/ws_siasun/build/duco_msg
